@@ -307,7 +307,7 @@
    </object>
   </objectgroup>
   <objectgroup id="11" name="npc">
-   <object id="27" name="npc" x="336" y="367.333">
+   <object id="27" name="npc 4" x="336" y="367.333">
     <point/>
    </object>
   </objectgroup>

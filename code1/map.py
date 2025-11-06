@@ -7,6 +7,14 @@ from screen import Screen
 from switch import Switch
 from npc import PNJ
 
+# Chemins des sprites
+prof_skins = [
+    "../assets/sprite/professor1.png",
+    "../assets/sprite/professor2.png",
+    "../assets/sprite/professor3.png",
+    "../assets/sprite/professor4.png"
+]
+
 class Map:
     def __init__(self, screen: Screen):
         self.screen: Screen = screen
@@ -31,8 +39,11 @@ class Map:
         self.group = pyscroll.PyscrollGroup(map_layer=self.map_layer, default_layer=7)
         self.npcs = []
         for obj in self.tmx_data.objects:
-            if obj.name == "npc":
-                pnj = PNJ(self.player.keylistener, self.screen, obj.x, obj.y)
+            if obj.name.startswith("npc"):  # par exemple "npc 1", "npc 2"…
+                # Déterminer quel professeur / quiz selon le nom
+                index = int(obj.name.split(" ")[-1]) - 1  # npc 1 -> index 0
+                skin_path = prof_skins[index]  # liste des sprites
+                pnj = PNJ(self.player.keylistener, self.screen, obj.x, obj.y, skin_path=skin_path)
                 self.npcs.append(pnj)
                 self.group.add(pnj)
 

@@ -4,7 +4,7 @@ from entity import Entity
 from tool import Tool
 
 class PNJ(Entity):
-    def __init__(self, keylistener, screen, x, y, skin_path="../assets/sprite/professor4.png"):
+    def __init__(self, keylistener, screen, x, y, skin_path):
         super().__init__(keylistener, screen, x, y)
 
         # Charger le sprite du PNJ (différent du joueur)
