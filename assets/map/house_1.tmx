@@ -190,10 +190,10 @@
    <object id="62" name="collision" x="384" y="496" width="16" height="16"/>
   </objectgroup>
   <objectgroup id="14" name="interface" offsetx="18" offsety="-52">
-   <object id="21" name="spawn map_0 0" x="400" y="624">
+   <object id="21" name="spawn house_4 0" x="400" y="624">
     <point/>
    </object>
-   <object id="27" name="switch map_0 0" x="384" y="656" width="48" height="16"/>
+   <object id="27" name="switch house_4 0" x="384" y="656" width="48" height="16"/>
   </objectgroup>
   <objectgroup id="19" name="npc" offsetx="18" offsety="-52">
    <object id="65" name="npc 2" x="391.5" y="504">

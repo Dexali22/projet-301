@@ -1,7 +1,17 @@
 import pygame
+import os
+import sys
+
 from keylistener import KeyListener
 from screen import Screen
 from tool import Tool
+
+
+def resource_path(relative_path: str) -> str:
+    """Retourne le vrai chemin, compatible PyInstaller"""
+    if hasattr(sys, "_MEIPASS"):
+        return os.path.join(sys._MEIPASS, relative_path)
+    return os.path.join(os.path.abspath("."), relative_path)
 
 
 class Entity(pygame.sprite.Sprite):
@@ -9,7 +19,11 @@ class Entity(pygame.sprite.Sprite):
         super().__init__()
         self.screen: Screen = screen
         self.keylistener: KeyListener = keylistener
-        self.spritesheet: pygame.image = pygame.image.load("../assets/sprite/hero_01_red_m_walk.png")
+
+        # SPRITESHEET → CHEMIN SECURISE
+        sprite_path = resource_path(f"assets/sprite/school1.png")
+        self.spritesheet: pygame.image = pygame.image.load(sprite_path).convert_alpha()
+
         self.image: pygame.image = Tool.split_image(self.spritesheet, 0, 0, 24, 32)
         self.position: pygame.math.Vector2 = pygame.math.Vector2(x, y)
         self.rect: pygame.Rect = self.image.get_rect()

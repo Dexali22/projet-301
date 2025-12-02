@@ -1,0 +1,691 @@
+[
+  {
+    "q": "Le cytosquelette :",
+    "choix": [
+      "Est conservé dans l’évolution des eucaryotes et des procaryotes",
+      "Est conservé dans l’évolution des eucaryotes",
+      "Est conservé dans l’évolution des procaryotes",
+      "N’est pas conservé dans l’évolution"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "L’actine est :",
+    "choix": [
+      "Rigide",
+      "Flexible",
+      "Semi-flexible",
+      "Semi-rigide"
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "Vrai ou faux, la myosine II n’est que dans les cellules musculaires",
+    "choix": [
+      "Vrai",
+      "Faux"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Il y a treadmilling quand :",
+    "choix": [
+      "Cc pointue < [monomères] < Cc brosse",
+      "Cc pointue = [monomères] = Cc brosse",
+      "Cc pointue > [monomères] < Cc brosse",
+      "Cc pointue > [monomères] > Cc brosse"
+    ],
+    "reponse": 3
+  },
+
+  {
+    "q": "Les formines se lient :",
+    "choix": [
+      "À la profiline",
+      "Au complexe Arp ⅔",
+      "À la thymosine",
+      "À un ATP"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Paramètres cinétiques (une réponse fausse) :",
+    "choix": [
+      "Le kon dépend de la concentrations en monomères",
+      "Le kon s’exprime en M.min-1",
+      "Le koff s’exprime en sec-1",
+      "Le koff ne dépend pas de la concentration en monomères"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "In vitro, Cc actine est égale à :",
+    "choix": [
+      "0.1 µM",
+      "0.5 µM",
+      "0.5 nM",
+      "0.1 nM"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Les filaments intermédiaires :",
+    "choix": [
+      "Sont tous similaires",
+      "Sont composées de beaucoup de feuilletés ß",
+      "Sont très dynamiques",
+      "Leur assemblage ne consomme pas d’énergie"
+    ],
+    "reponse": 3
+  },
+  {
+    "q": "La migration cellulaire se produit grâce aux :",
+    "choix": [
+      "Microtubules",
+      "Microfilaments d’actine",
+      "Filaments intermédiaires",
+      "Septines"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "La cofiline se lie préférentiellement sur des microfilaments d’actine plus ”anciens”. Comment peut-elle distinguer les microfilaments anciens de ceux nouvellement polymérisés ?",
+    "choix": [
+      "Les microfilaments anciens sont riches en ADP.",
+      "Les microfilaments anciens contiennent de la formine.",
+      "Les microfilaments anciens contiennent de la profiline.",
+      "Les microfilaments anciens sont beaucoup plus rigides (longueur de persistance augmentée)"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "En quoi la profiline, une protéine se liant aux monomères d’actine, peut-elle favoriser l’élongation des microfilaments d’actine ?",
+    "choix": [
+      "Elle accélère l’élongation des polymères d’actine aux extrémités en brosse (+) et pointues (-).",
+      "Elle peut interagir avec des protéines favorisant la nucléation des microfilaments.",
+      "Elle permet au complexe Arp2/3 de former des branches au niveau des microfilaments.",
+      "Elle inhibe l’hydrolyse du nucléotide présent dans les monomères d’actine.",
+      "Elle permet à des nucléateurs d’allonger rapidement des microfilaments à partir des extrémités pointues (-)."
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Que se passe-t-il lors de la phase d’élongation d’un polymère d’actine in vitro ?",
+    "choix": [
+      "Les monomères d’actine s’ajoutent aux extrémités en brosse (+) et pointues (–) des polymères en croissance, si elles sont exposées.",
+      "Les monomères d’actine s’ajoutent uniquement aux extrémités en brosse (+) des polymères en croissance.",
+      "Les monomères d’actine s’ajoutent à la même vitesse aux extrémités en brosse (+) et pointues (–) des polymères en croissance, si elles sont exposées.",
+      "Des sous-unités des microtubules peuvent se dissocier des polymères en croissance à un taux constant.",
+      "La concentration critique des monomères d’actine diminue"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Pourquoi les filaments intermédiaires ont-ils des extrémités identiques et manquent-ils de polarité, contrairement aux microfilaments d’actine et aux microtubules ?",
+    "choix": [
+      "Parce que l’élément constitutif des filaments intermédiaires contient des tétramères symétriques aux extrémités identiques.",
+      "Parce que l’élément constitutif des filaments intermédiaires contient des tétramères asymétriques aux extrémités polaires.",
+      "Parce que l’élément constitutif des filaments intermédiaires contient des tétramères parallèles aux extrémités peu dynamiques.",
+      "Parce que l’élément constitutif des filaments intermédiaires contient des monomères disposant une région centrale hélicoïdale, d’une fonction amine et d’une fonction carboxylique.",
+      "Parce que l’élément constitutif des filaments intermédiaires contient des dimères antiparallèles super-enroulés, ce qui expose des extrémités protéiques identiques."
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Quel est le rôle des filaments intermédiaires dans le cytosquelette ?",
+    "choix": [
+      "Ils sont responsables de la division cellulaire",
+      "Ils aident à la contraction musculaire",
+      "Ils maintiennent la forme de la cellule",
+      "Ils sont impliqués dans le transport intracellulaire"
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "Au niveau de la strie Z d’un sarcomère, vous pouvez affirmer que les microfilaments d’actine :",
+    "choix": [
+      "Sont ancrés au niveau de leur extrémité pointue",
+      "Sont organisés de façon perpendiculaire",
+      "Forment la bande A",
+      "Sont ancrés au niveau de leur extrémité en brosse",
+      "Polymérisent rapidement"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Lorsque 2µM de monomères d’actine sont mis à polymériser in vitro on peut affirmer que :",
+    "choix": [
+      "Il y aura 0.1µM d’actine polymérisée au maximum à l’état d’équilibre.",
+      "Il n’y aura pas de polymérisation car cette concentration est supérieure à la concentration critique.",
+      "Il n’y aura pas de phase de latence.",
+      "Il n’y aura plus de monomères d’actine lorsque l’état d’équilibre sera atteint.",
+      "La polymérisation de chaque microfilament s’effectuera au niveau de leurs deux extrémités lors de la phase d’élongation."
+    ],
+    "reponse": 4
+  },
+  {
+    "q": "La bactérie Listeria monocytogenes peut infecter des cellules et former des comètes d'actine dans le cytoplasme des cellules infectées. Cela peut s'expliquer parce que (une réponse juste) :",
+    "choix": [
+      "La bactérie inhibe la dépolymérisation des microfilaments d’actine.",
+      "La bactérie exprime une protéine à sa surface qui peut activer le complexe Arp2/3 et ainsi générer des réseaux d’actine branchés.",
+      "La bactérie inhibe le complexe Arp2/3, ce qui favorise la formation de réseaux d’actine linéaires.",
+      "La bactérie augmente la concentration intracellulaire d’actine, ce qui facilite la formation de réseaux d’actine branchés.",
+      "La bactérie exprime une protéine à sa surface qui peut activer des formines et ainsi générer des réseaux d’actine branchés."
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Les molécules de myosine II (une réponse fausse) :",
+    "choix": [
+      "Ont besoin de leur queue torsadée pour avoir une activité motrice.",
+      "Ont un rôle majeur dans la contraction des microfilaments d’actine orientés de façon opposée dans un sarcomère.",
+      "Ont une queue torsadée requise pour leur assemblage en filaments bipolaires.",
+      "Sont caractérisées par des bandes sombres dans un sarcomère.",
+      "Ont deux domaines moteurs."
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "En utilisant 1.4 mg/mL de tubuline purifiée, les microtubules polymérisent à une vitesse d’environ 2 μm/min. En considérant cette vitesse, environ combien de dimères de tubuline alpha-beta (longueur de 8 nm) au total sont ajoutés aux extrémités d’un microtubule chaque seconde (une réponse juste) ?",
+    "choix": [
+      "13.",
+      "252.",
+      "54.",
+      "33.",
+      "4,2."
+    ],
+    "reponse": 4
+  },
+  {
+    "q": "Les desmosomes (une réponse juste) :",
+    "choix": [
+      "Relient les cytosquelettes d’actine de cellules épithéliales adjacentes.",
+      "Sont constitués des protéines adaptatrices desmocollines et desmogléines.",
+      "Sont retrouvés au niveau du pôle basal des cellules épithéliales, en contact avec la lame basale.",
+      "Sont constitués des protéines transmembranaires claudine et occludine.",
+      "Sont observés en microscopie électronique sous forme de disques ovoïdes ou macula."
+    ],
+    "reponse": 4
+  },
+  {
+    "q": "A propos des interactions cellulaires dans les tissus épithéliaux (une réponse fausse) :",
+    "choix": [
+      "Les desmosomes et les hémidesmosomes permettent la formation d’un réseau de filaments intermédiaires renforçant la résistance mécanique des tissus épithéliaux.",
+      "Les jonctions serrées séparent les domaines apicaux des cellules épithéliales des domaines basolatéraux.",
+      "Les jonctions gap permettent le passage de protéines et d’ARN d’une cellule à l’autre.",
+      "Les cadhérines sont des protéines d’adhérence transmembranaires trouvées au niveau des desmosomes.",
+      "Les hémidesmosomes sont des interactions d’ancrage cellule-matrice extracellulaire."
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "Qu’est-ce que la concentration critique de l’actine (une réponse juste) ?",
+    "choix": [
+      "La concentration maximale de polymères d’actine nécessaire au maintien de la longueur d’un microfilament d’actine.",
+      "La concentration minimale de monomères d’actine qui n’est pas nécessaire à la formation d’un polymère d’actine.",
+      "La concentration maximale de monomères d’actine nécessaire à la formation d’un polymère d’actine.",
+      "La concentration maximale de monomères d’actine qui n’est pas nécessaire à la formation d’un polymère d’actine.",
+      "La concentration minimale de monomères d’actine nécessaire à la formation d’un polymère d’actine."
+    ],
+    "reponse": 4
+  },
+  {
+    "q": "A propos des protéines associées aux filaments du cytosquelette : (une réponse juste)",
+    "choix": [
+      "Les dynéines sont des moteurs moléculaires associés à tous les filaments du cytosquelette.",
+      "Les myosines sont des moteurs moléculaires qui transforment l’énergie chimique du CTP en énergie mécanique nécessaire à des mouvements telle que la contraction.",
+      "Le complexe Arp2/3 permet la fragmentation des filaments d’actines.",
+      "Les protéines dites ”cap protéines” en interagissant avec les extrémités plus des microtubules stabilisent ces derniers.",
+      "Les kinésines sont des complexes protéiques contenant trois domaines moteurs."
+    ],
+    "reponse": 3
+  },
+  {
+    "q": "A propos de l’organisation et de la dynamique des filaments d’actine : (une réponse fausse)",
+    "choix": [
+      "Les filaments d’actine sont des polymères asymétriques.",
+      "Le modèle du tapis roulant de polymérisation des microfilaments s’applique aussi aux microtubules.",
+      "Les lamellipodes contiennent des réseaux de filaments d’actine.",
+      "Le cortex cellulaire contient un réseau de très longs filaments d’actine attachés à l’enveloppe nucléaire.",
+      "Lorsqu’une cellule se déplace sur un support, son front de migration contient des faisceaux de microfilaments dont certains vont être impliqués dans la formation d’adhérences focales."
+    ],
+    "reponse": 3
+  },
+  {
+    "q": "A propos de la polymérisation des microtubules : (une réponse juste)",
+    "choix": [
+      "In vivo, les microtubules s’allongent uniquement à partir de leurs extrémités plus.",
+      "Au cours de la polymérisation des microtubules, les sous unités alpha de la tubuline sont ajoutées aux extrémités moins des microtubules et les sous unités bêta sont ajoutées aux extrémités plus des microtubules .",
+      "In vivo, la polymérisation des microtubules est réalisée à vitesse constante.",
+      "La polymérisation des microtubules dépend de la concentration locale en CTP.",
+      "Une fois polymérisés, les microtubules mitotiques restent stables indéfiniment."
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Propriétés des protéines constitutives du cytosquelette : (une réponse fausse)",
+    "choix": [
+      "La nature des protéines trouvées dans les filaments intermédiaires varie en fonction des tissus.",
+      "Pour pouvoir former des microfilaments, l’actine G s’associe d’abord avec de l’UMP.",
+      "Les protéines des filaments intermédiaires contiennent toutes une région centrale hélicoïdale et des domaines N et C terminaux globulaires.",
+      "Les tubulines alpha et bêta forment des hétérodimères.",
+      "Les lamines sont des protéines du cytosquelette dont la localisation est nucléaire."
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "A propos de la lamine nucléaire : (une réponse fausse)",
+    "choix": [
+      "La lamine tapisse la face interne de l’enveloppe nucléaire.",
+      "Les filaments de lamine se dépolymérisent dans les cellules en mitose.",
+      "La lamine est un constituant du nucléosome.",
+      "La lamine appartient à la famille des filaments intermédiaires.",
+      "La lamine est en contact avec l’hétérochromatine."
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "L’instabilité dynamique entraîne une croissance ou une dépolymérisation rapide des microtubules. Considérez un microtubule individuel en cours de dépolymérisation dans un tube à essai : que se passerait-il s’il n’a que du GDP (et pas de GTP) présent dans la solution (une réponse juste) ?",
+    "choix": [
+      "Le microtubule arrêterait de dépolymériser parce que les dimères de tubuline ne pourraient plus effectuer d’hydrolyse du nucléotide.",
+      "Le microtubule arrêterait de dépolymériser parce que les dimères de tubuline disposeraient d’une coiffe GDP stabilisant l’extrémité moins (–).",
+      "Le microtubule continuerait à dépolymériser jusqu’à ce que les homodimères de tubuline atteignent la concentration critique minimale requise pour repolymériser.",
+      "Le microtubule continuerait à dépolymériser parce que les dimères de tubuline ne s’ajouteraient pas de manière stable au microtubule.",
+      "Le microtubule recommencerait à polymériser parce que les dimères de tubuline ne seraient plus en déséquilibre avec le GTP présent, ce qui est à l’origine de l’instabilité dynamique."
+    ],
+    "reponse": 3
+  },
+  {
+    "q": "Parmi les propositions ci-dessous, laquelle correspond à cette définition : ”Assemblage de protéines contenant notamment une forme spéciale de tubuline qui agit comme un nucléateur efficace des microtubules” (une réponse juste) ?",
+    "choix": [
+      "Le centrosome.",
+      "Les complexes en anneau de tubuline gamma (γ-TuRC).",
+      "La tubuline.",
+      "Le centre organisateur des microtubules (MTOC).",
+      "Le centriole."
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Quelle drogue se lie aux monomères d'actine (Actine-G) et empêche leur polymérisation ?",
+    "choix": [
+      "Phalloïdine",
+      "Taxol (Paclitaxel)",
+      "Latrunculine",
+      "Colchicine",
+      "Cytochalasine D"
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "Concernant les moteurs moléculaires (une réponse juste) :",
+    "choix": [
+      "Les kinésines se déplacent majoritairement vers l'extrémité moins (-) des microtubules.",
+      "Les dynéines sont impliquées dans le transport rétrograde (vers le centre de la cellule).",
+      "La myosine II est un moteur qui se déplace le long des filaments intermédiaires.",
+      "Tous les moteurs moléculaires hydrolysent du GTP pour générer du mouvement.",
+      "La myosine V se déplace vers l'extrémité pointue (-) des microfilaments."
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Le complexe ૪-TuRC est essentiel pour :",
+    "choix": [
+      "La nucléation des microfilaments d'actine.",
+      "La stabilisation des filaments intermédiaires.",
+      "La nucléation des microtubules au centrosome.",
+      "La formation des comètes d'actine par Listeria.",
+      "L'hydrolyse de l'ATP par la myosine II."
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "Les jonctions adhérentes (zonula adherens) diffèrent des desmosomes (macula adherens) principalement parce que :",
+    "choix": [
+      "Les jonctions adhérentes lient la cellule à la matrice extracellulaire, les desmosomes lient les cellules entre elles.",
+      "Les jonctions adhérentes sont associées aux filaments intermédiaires, les desmosomes aux microfilaments d'actine.",
+      "Les jonctions adhérentes sont associées aux microfilaments d'actine, les desmosomes aux filaments intermédiaires.",
+      "Les jonctions adhérentes utilisent des intégrines, les desmosomes des cadhérines.",
+      "Les jonctions adhérentes forment la \"zonula occludens\", les desmosomes la \"macula adherens\"."
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "La \"catastrophe\" dans le contexte de l'instabilité dynamique des microtubules correspond à :",
+    "choix": [
+      "L'hydrolyse rapide du GTP en GDP sur la tubuline ß au sein du polymère.",
+      "Le passage soudain de la polymérisation à la dépolymérisation.",
+      "Le moment où la concentration en tubuline libre atteint la concentration critique.",
+      "L'assemblage des 13 protofilaments pour former un tube complet.",
+      "Le sauvetage du microtubule par ajout d'une coiffe GTP."
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Les protéines Tau et MAP2 sont des MAPs (Microtubule-Associated Proteins) qui ont pour fonction principale :",
+    "choix": [
+      "De couper les microtubules (comme la katanine).",
+      "De nucléer la polymérisation des microtubules au centrosome.",
+      "De stabiliser les microtubules en se liant sur leur longueur.",
+      "D'agir comme des moteurs moléculaires se déplaçant vers l'extrémité plus.",
+      "De faciliter l'hydrolyse du GTP par la tubuline ß."
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "Laquelle de ces affirmations sur les filaments intermédiaires est fausse ?",
+    "choix": [
+      "Ils sont présents chez tous les eucaryotes, y compris les levures.",
+      "Ils confèrent une résistance mécanique majeure aux cellules contre l'étirement.",
+      "L'unité de base assemblée est un tétramère non polarisé.",
+      "Les kératines (cellules épithéliales) et la vimentine (cellules mésenchymateuses) sont des exemples de filaments intermédiaires.",
+      "Ils s'ancrent au niveau des desmosomes et hémidesmosomes."
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "L'assemblage de l'actine par les formines diffère de celui médié par le complexe Arp2/3 car les formines :",
+    "choix": [
+      "Créent des réseaux d'actine branchés (arborescents) à 70°.",
+      "Restent associées à l'extrémité moins (-) du filament en croissance.",
+      "Sont activées par la protéine WASp.",
+      "Favorisent la polymérisation de longs filaments linéaires (non branchés).",
+      "Hydrolysent l'ATP pour fournir l'énergie de la polymérisation."
+    ],
+    "reponse": 3
+  },
+  {
+    "q": "Laquelle de ces protéines séquestre les monomères d'actine-ATP, créant un \"réservoir\" de monomères non polymérisables ?",
+    "choix": [
+      "Profiline",
+      "Thymosine ß4",
+      "Cofiline",
+      "Gelsoline",
+      "Complexe Arp2/3"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Lors de la migration cellulaire, la rétraction de l'arrière de la cellule (queue uropode) est principalement médiée par :",
+    "choix": [
+      "La dépolymérisation rapide des microtubules.",
+      "La contraction des fibres de stress (actine) par la myosine II.",
+      "L'activité des kinésines sur le réseau d'actine.",
+      "L'effondrement du réseau de filaments intermédiaires.",
+      "La polymérisation rapide de l'actine au niveau du lamellipode."
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Le centrosome est le principal centre organisateur des microtubules (MTOC) chez :",
+    "choix": [
+      "Les cellules végétales",
+      "Les cellules animales",
+      "Les bactéries",
+      "Les champignons",
+      "Toutes les cellules eucaryotes"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Vrai ou faux : La polymérisation des microfilaments d'actine est un processus qui consomme de l'ATP.",
+    "choix": [
+      "Vrai",
+      "Faux"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Parmi les propositions suivantes, laquelle est une protéine de coiffe (capping protein) de l'actine ?",
+    "choix": [
+      "La profiline",
+      "La thymosine ß4",
+      "La gelsoline",
+      "Le complexe Arp2/3",
+      "La CapZ"
+    ],
+    "reponse": 4
+  },
+  {
+    "q": "Les kinésines se déplacent généralement vers quelle extrémité des microtubules ?",
+    "choix": [
+      "L'extrémité plus (+)",
+      "L'extrémité moins (-)",
+      "Les deux extrémités",
+      "Elles ne se déplacent pas, elles stabilisent",
+      "Elles se déplacent le long des filaments intermédiaires"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Laquelle de ces affirmations concernant les filaments intermédiaires est vraie ?",
+    "choix": [
+      "Ils sont très dynamiques et subissent une instabilité dynamique.",
+      "Ils sont formés par l'assemblage de dimères polarisés.",
+      "Ils sont composés de sous-unités de tubuline.",
+      "Ils sont non polarisés et confèrent une résistance mécanique.",
+      "Ils sont impliqués dans la contraction musculaire."
+    ],
+    "reponse": 3
+  },
+  {
+    "q": "Le cytosquelette est :",
+    "choix": [
+      "Un ensemble de filaments protéiques uniquement extracellulaires",
+      "Présent chez tous les organismes vivants",
+      "Un réseau dynamique intracellulaire participant à la forme et aux mouvements cellulaires",
+      "Composé uniquement de microtubules",
+      "Un système rigide et permanent"
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "Les microfilaments d’actine sont constitués de :",
+    "choix": [
+      "Dimères d’actine G",
+      "Monomères d’actine F",
+      "Dimères d’actine α et β",
+      "Monomères d’actine G polymérisés",
+      "Hétérodimères d’actine–tubuline"
+    ],
+    "reponse": 3
+  },
+  {
+    "q": "La polymérisation de l’actine est favorisée lorsque :",
+    "choix": [
+      "La concentration en monomères est supérieure à la concentration critique",
+      "La concentration en monomères est inférieure à la concentration critique",
+      "Il n’y a plus d’ATP disponible",
+      "Les extrémités sont coiffées par des protéines",
+      "L’actine est sous forme ADP"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Le complexe Arp2/3 :",
+    "choix": [
+      "Induit la formation de filaments linéaires",
+      "Nucléé la croissance de filaments branchés à 70°",
+      "Dépolymérise les microtubules",
+      "Séquestre les monomères d’actine",
+      "Stabilise les filaments intermédiaires"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Les microtubules :",
+    "choix": [
+      "Sont composés de 9 protofilaments",
+      "Ont une structure creuse composée de 13 protofilaments",
+      "Sont des structures planes",
+      "Sont formés de kératine",
+      "Sont très stables et non dynamiques"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Le centrosome :",
+    "choix": [
+      "Est un organite dépourvu de protéines",
+      "Contient deux centrioles et des complexes γ-TuRC",
+      "Est situé dans le noyau",
+      "Sert à polymériser les filaments intermédiaires",
+      "Est composé d’actine"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "La colchicine :",
+    "choix": [
+      "Stabilise les microtubules",
+      "Active la polymérisation de l’actine",
+      "Inhibe la polymérisation de la tubuline",
+      "Séquestre les monomères d’actine",
+      "Inhibe la myosine II"
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "Les filaments intermédiaires :",
+    "choix": [
+      "Sont polarisés",
+      "Ont une structure tubulaire creuse",
+      "Sont constitués d’actine G",
+      "Participent à la contraction musculaire",
+      "Ne consomment pas d’énergie lors de leur assemblage"
+    ],
+    "reponse": 4
+  },
+  {
+    "q": "La myosine II :",
+    "choix": [
+      "Se déplace le long des microtubules",
+      "Se déplace le long des filaments d’actine vers l’extrémité +",
+      "Se déplace vers l’extrémité –",
+      "Se lie à la tubuline β",
+      "Est une protéine du fuseau mitotique"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Les kinésines :",
+    "choix": [
+      "Se déplacent vers l’extrémité + des microtubules",
+      "Sont des moteurs moléculaires du réseau d’actine",
+      "Se déplacent vers l’extrémité – des microtubules",
+      "Se déplacent aléatoirement le long des filaments intermédiaires",
+      "Font partie du complexe Arp2/3"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "La profiline :",
+    "choix": [
+      "Séquestre les monomères d’actine pour inhiber la polymérisation",
+      "Coupe les filaments d’actine",
+      "Dépolymérise les microtubules",
+      "Favorise la polymérisation à l’extrémité + en échangeant ADP contre ATP",
+      "Se lie aux dimères de tubuline"
+    ],
+    "reponse": 3
+  },
+  {
+    "q": "La cofiline :",
+    "choix": [
+      "Se lie préférentiellement à l’actine-ATP",
+      "Stabilise les filaments d’actine",
+      "Coupe et déstabilise les anciens filaments d’actine riches en ADP",
+      "Polymérise les microtubules",
+      "Nucléé les réseaux d’actine branchés"
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "La gelsoline :",
+    "choix": [
+      "Coupe les filaments d’actine et coiffe les extrémités plus",
+      "Stabilise les microtubules",
+      "Active la polymérisation de la tubuline",
+      "Dépolymérise les filaments intermédiaires",
+      "Est un moteur moléculaire"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Les filaments d’actine sont organisés en lamellipodes :",
+    "choix": [
+      "Lors de la division cellulaire",
+      "Lors de la migration cellulaire",
+      "Lors de la mitose",
+      "Dans le noyau",
+      "Dans les mitochondries"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "La catastrophe des microtubules correspond à :",
+    "choix": [
+      "Un passage soudain de la dépolymérisation à la polymérisation",
+      "Une phase de stabilisation prolongée",
+      "L’action des protéines Tau",
+      "Une perte de la coiffe ATP",
+      "Un passage soudain de la polymérisation à la dépolymérisation"
+    ],
+    "reponse": 4
+  },
+  {
+    "q": "Les protéines MAP2 et Tau :",
+    "choix": [
+      "Nucléent les microtubules",
+      "Stabilisent les microtubules le long de leur longueur",
+      "Coupe les microtubules",
+      "Hydrolysent le GTP",
+      "Inhibent la polymérisation"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Les kératines appartiennent à :",
+    "choix": [
+      "La famille des filaments intermédiaires",
+      "La famille des microtubules",
+      "La famille des microfilaments",
+      "La famille des actines",
+      "La famille des myosines"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "La lamine nucléaire :",
+    "choix": [
+      "Est une actine nucléaire",
+      "Est une tubuline modifiée",
+      "Est un filament intermédiaire tapissant la face interne de l’enveloppe nucléaire",
+      "Stabilise le fuseau mitotique",
+      "Se trouve dans le cytoplasme"
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "La latrunculine :",
+    "choix": [
+      "Stabilise les microtubules",
+      "Coupe les filaments d’actine",
+      "Favorise la polymérisation de l’actine",
+      "Empêche la polymérisation de l’actine en se liant à l’actine G",
+      "Déstabilise les filaments intermédiaires"
+    ],
+    "reponse": 3
+  },
+  {
+    "q": "Les filaments intermédiaires se distinguent des microtubules et des microfilaments car :",
+    "choix": [
+      "Ils sont polarisés",
+      "Ils consomment du GTP",
+      "Ils ne consomment pas d’énergie pour s’assembler et sont non polarisés",
+      "Ils contiennent de l’actine",
+      "Ils participent au transport intracellulaire actif"
+    ],
+    "reponse": 2
+  }
+]

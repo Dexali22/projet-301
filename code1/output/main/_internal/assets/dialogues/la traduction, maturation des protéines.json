@@ -1,0 +1,294 @@
+[
+  {
+    "q": "Le ribosome eucaryote complet est composé de :",
+    "choix": [
+      "60S + 30S",
+      "60S + 40S",
+      "70S",
+      "80S + 18S"
+    ],
+    "reponse": 1},
+  {
+    "q": "L’activité peptidyl-transférase du ribosome est assurée par :",
+    "choix": [
+      "L’ARNr 28S (ou 23S chez les procaryotes)",
+      "Les protéines ribosomiques",
+      "L’ARNt initiateur",
+      "Le facteur EF2"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "L’inosine (I) dans certains ARNt :",
+    "choix": [
+      "S’apparie uniquement avec A",
+      "Peut s’apparier à U, C ou A",
+      "Rend l’appariement plus strict",
+      "Se trouve sur la 3ᵉ base du codon"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "La traduction eucaryote débute par la reconnaissance de :",
+    "choix": [
+      "La séquence Shine-Dalgarno",
+      "La coiffe 7-méthylguanosine (cap)",
+      "Le signal peptide",
+      "La séquence Kozak (gccRccAUGG)"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Le ribosome synthétise la protéine dans la direction :",
+    "choix": [
+      "3′ → 5′ sur l’ARNm",
+      "N-terminal → C-terminal",
+      "C-terminal → N-terminal",
+      "De la queue poly-A vers la coiffe"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "La N-formyl-méthionine (fMet) est utilisée :",
+    "choix": [
+      "Par les procaryotes",
+      "Par les eucaryotes cytoplasmiques",
+      "Par les mitochondries et chloroplastes",
+      "Jamais dans les cellules vivantes"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Le facteur eIF2 est inactif quand il est :",
+    "choix": [
+      "Complexé avec GTP",
+      "Phosphorylé",
+      "Complexé avec GDP"],
+    "reponse": 1
+  },
+  {
+    "q": "Lors d’un stress cellulaire, la phosphorylation de eIF2 :",
+    "choix": [
+      "Stimule la traduction",
+      "Inhibe la formation du complexe d’initiation",
+      "Active le ribosome 60S",
+      "Déphosphoryle l’ARNm"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Les protéines Hsp70 :",
+    "choix": [
+      "Stabilisent les polypeptides naissants",
+      "Catalysent des réactions d’oxydation",
+      "Font partie du ribosome"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Les chaperonines Hsp60 :",
+    "choix": [
+      "Sont présentes uniquement dans le cytosol",
+      "Font partie du Golgi",
+      "Forment des complexes en double anneau"
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "La PDI (Protein Disulfide Isomerase) est active :",
+    "choix": [
+      "Dans le cytosol réducteur",
+      "Dans le RE oxydant",
+      "Dans le Golgi",
+      "Dans les lysosomes"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "La peptidyl-prolyl isomérase Pin1 agit spécifiquement sur :",
+    "choix": [
+      "Les liaisons Ser–Gly",
+      "Les motifs pSer/Thr–Pro phosphorylés",
+      "Les ponts disulfures",
+      "Les glycosylations N-liées"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Une protéine destinée au RE contient :",
+    "choix": [
+      "Une séquence signal hydrophobe en N-terminal",
+      "Une séquence Lys–Asp–Glu–Leu",
+      "Un motif mannose-6-phosphate",
+      "Une queue poly-A"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "La SRP (Signal Recognition Particle) :",
+    "choix": [
+      "Arrête temporairement la traduction",
+      "Ne reconnaît la séquence signal",
+      "Dégrade le peptide signal",
+      "Transporte directement vers le noyau"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "La translocation co-traductionnelle nécessite :",
+    "choix": [
+      "Le complexe SRP/SRP-récepteur",
+      "Le complexe Sec62/63",
+      "Un ligant",
+      "Une séquence signal interne"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Le clivage du peptide signal est réalisé par :",
+    "choix": [
+      "La PDI",
+      "La BiP",
+      "Une peptidase spécifique de la séquence signal",
+      "L’eIF2"
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "La BiP (GRP78) agit dans le RE comme :",
+    "choix": [
+      "Chaperon Hsp70 dépendant de l’ATP",
+      "Protéine ribosomique",
+      "Signal d’export vers le Golgi"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "La glycosylation N-liée se produit sur :",
+    "choix": [
+      "La sérine",
+      "La thréonine",
+      "L’asparagine",
+      "L’acide glutamique"
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "Le support lipidique impliqué dans la N-glycosylation est :",
+    "choix": [
+      "Cholestérol",
+      "Dolichol phosphate",
+      "Céramide",
+      "Sphingosine"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Dans le Golgi, la face cis reçoit :",
+    "choix": [
+      "Les vésicules issues du RE",
+      "Les vésicules COPI",
+      "Les vésicules lysosomales",
+      "Les endosomes tardifs"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Les glycosyltransférases du Golgi :",
+    "choix": [
+      "Ajoutent des sucres successifs",
+      "Suppriment les glucose résiduels",
+      "Modifient uniquement les lipides",
+      "Sont cytosoliques"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Le mannose-6-phosphate marque :",
+    "choix": [
+      "Les protéines destinées aux lysosomes",
+      "Les protéines du RE",
+      "Les enzymes mitochondriales",
+      "Les protéines ribosomales"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Les protéines O-glycosylées sont modifiées sur :",
+    "choix": [
+      "Les chaînes latérales de sérine ou thréonine",
+      "L’asparagine",
+      "La glycine",
+      "La proline"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Les vésicules COPII effectuent le transport :",
+    "choix": [
+      "Du RE vers l’appareil de Golgi",
+      "Du Golgi vers le RE",
+      "Du Golgi vers le lysosome",
+      "De l’endosome vers la MP"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Les vésicules COPI :",
+    "choix": [
+      "Transportent du RE vers Golgi",
+      "Font le transport rétrograde Golgi → RE",
+      "Sont présentes dans les mitochondries",
+      "Sont impliquées dans la dégradation autophagique"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Les vésicules à clathrine :",
+    "choix": [
+      "Transportent du RE vers le Golgi",
+      "Participent à l’endocytose",
+      "Transportent les protéines ribosomales"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Les protéines Rab sont :",
+    "choix": [
+      "De petites GTPases de reconnaissance membranaire",
+      "Des chaperones luminales",
+      "Des récepteurs du mannose-6-P",
+      "Des glycosidases"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Les protéines SNARE assurent :",
+    "choix": [
+      "La fusion spécifique vésicule/membrane cible",
+      "L’attachement de la SRP au ribosome",
+      "L’hydrolyse du GTP",
+      "La dégradation du cargo"
+    ],
+    "reponse": 0},
+  {
+    "q": "Les hydrolases lysosomales :",
+    "choix": [
+      "Fonctionnent à pH basique (~12)",
+      "Sont protégées de l’autodigestion par la membrane lysosomale",
+      "Sont actives à pH neutre",
+      "Nécessitent la BiP pour leur transport"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "L’autophagie permet :",
+    "choix": [
+      "L’import des protéines vers le RE",
+      "L’export des protéines du noyau",
+      "La dégradation des composants cytoplasmiques",
+      "L’élimination des organites sains"
+    ],
+    "reponse": 2
+  }
+]

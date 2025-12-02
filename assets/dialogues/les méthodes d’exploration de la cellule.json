@@ -1,0 +1,245 @@
+[
+  {
+    "q": "Il existe deux types de cellules animales isolées en laboratoire : les cellules adhérentes et les cellules en suspension. Parmi les éléments suivants, lesquels sont des cellules adhérentes ?",
+    "choix": ["Sang", "Fibroblastes 3T3",  "Moelle osseuse"],
+    "reponse": 1
+  },
+  {
+    "q": "La vitesse de sédimentation d’une particule dépend principalement de",
+    "choix": ["Son rayon", "Sa charge", "La pression constante"],
+    "reponse": 0
+  },
+  {
+    "q": "Quel est le nom de la femme afro-américaine dont les cellules cancéreuses sont à l'origine des cellules HeLa ?",
+    "choix": ["Henrietta Locks", "Henriana Lacks", "Henrietta Lacks", "Henriana Locks"],
+    "reponse": 2
+  },
+  {
+    "q": "Pourquoi faut-il passer les chloroplastes par centrifugation sur gradient de densité après centrifugation différentielle ?",
+    "choix": ["Séparer les chloroplastes cassés et intacts", "Pour garantir la pureté des organites", "Distinguer entre le noyau et le chloroplaste", "Pour libérer les organites dans la cellule"],
+    "reponse": 0
+  },
+  {
+    "q": "Le rouge de phénol est un détecteur de :",
+    "choix": ["Humidité de la cellule", "alcalinisation et acidification", "taux de CO2"],
+    "reponse": 2
+  },
+  {
+    "q": "À quoi sert une hotte ?",
+    "choix": ["S'assurer que les niveaux d'oxygène sont optimaux", "Pour éviter l'acidification de la culture", "Pour maintenir le taux d'humidité à 73 %", "Pour garantir des conditions stériles"],
+    "reponse": 3
+  },
+  {
+    "q": "D'où proviennent les cellules HeLa ?",
+    "choix": ["Le col de l’utérus", "Le cœur", "Le rein", "Le pancréas"],
+    "reponse": 0
+  },
+  {
+    "q": "Si le western blot est utilisé pour détecter les protéines, le northern blot est utilisé pour détecter :",
+    "choix": ["l’ADN", "l’ARN", "les noyaux", "les mitochondries"],
+    "reponse": 1
+  },
+  {
+    "q": "Selon la loi de Stokes, la vitesse de sédimentation d'une particule dépend principalement de :",
+    "choix": ["Sa vitesse de migration", "Son rayon", "Son poids moléculaire"],
+    "reponse": 1
+  },
+  {
+    "q": "Quel est l’intérêt d’utiliser un contrôle de charge lors d’une analyse par western blot ?",
+    "choix": [
+      "Contrôler la qualité des anticorps utilisés.",
+      "S'assurer que les variations d’intensité observées ne sont pas dues à des différences dans la quantité totale de protéines chargées.",
+      "Détecter les interactions protéine-protéine.",
+      "S’assurer que la détection des protéines d’intérêt est spécifique."
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "En considérant la limite du pouvoir de résolution théorique de l’œil humain, vous pouvez affirmer qu’il est possible d’observer sans l’aide d’un microscope (une réponse juste) :",
+    "choix": ["Un organoïde.", "Une protéine GFP.", "Une cellule HeLa.", "Une levure Saccharomyces cerevisiae.", "Une bactérie Escherichia coli."],
+    "reponse": 0
+  },
+  {
+    "q": "Qu’est-ce que la chimiluminescence (une réponse juste) ?",
+    "choix": [
+      "Une réaction chimique induisant une émission de lumière.",
+      "Une émission de lumière provoquée par l’excitation des électrons d’une molécule.",
+      "Une émission de lumière induite par l’absorption de photons.",
+      "Une production d’un produit coloré à la suite d’une réaction d’oxydoréduction.",
+      "Une émission de lumière par un anticorps secondaire qui interagit avec un anticorps primaire."
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Selon la loi de Stokes, la vitesse de sédimentation d’une particule augmentera (plusieurs réponses justes) :",
+    "choix": [
+      "Plus la vitesse de centrifugation sera importante.",
+      "Plus la densité de la particule sera faible.",
+      "Moins la température du milieu sera élevée.",
+      "Lors de son homogénéisation."
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Vous avez isolé une fraction subcellulaire contenant des lysosomes par centrifugation sur gradient de saccharose. Comment évalueriez-vous sa pureté (une réponse juste) ?",
+    "choix": [
+      "En examinant cette fraction par microscopie électronique.",
+      "En mesurant l’absorbance de cette fraction par spectrophotométrie.",
+      "En réalisant un western-blot à l’aide d’un anticorps dirigé contre une protéine exprimée sur les lysosomes.",
+      "En analysant cette fraction par électrophorèse puis par microscopie optique."
+    ],
+    "reponse": 0
+  },
+  {
+    "q": " En hybridant la fraction avec une sonde complémentaire des lysosomes.Quelle technique ne permet pas de détecter des acides nucléiques (une réponse juste) ?",
+    "choix": ["Le southern-blot.", "Le northern-blot.", "Le western-blot.", "La cytométrie en flux.", "Le FISH (hybridation in situ en fluorescence)."],
+    "reponse": 2
+  },
+  {
+    "q": "Parmi les propositions ci-dessous, laquelle correspond à une étape du northern-blot (une réponse juste) ?",
+    "choix": [
+      "Electrophorèse pour séparer des fragments d’ADN totaux.",
+      "Transfert de l’ADN sur une membrane.",
+      "Hybridation avec une sonde marquée pour détecter un ARNm.",
+      "Incubation avec un anticorps primaire.",
+      "Révélation de la protéine par fluorescence."
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "Quel est l’avantage de l’utilisation de la GFP par rapport aux anticorps marqués par fluorescence pour étudier le mouvement d’une protéine à l’intérieur des cellules (une réponse juste) ?",
+    "choix": [
+      "Les protéines fusionnées à la GFP peuvent être exprimées dans des cellules vivantes.",
+      "La GFP peut être observée par microscopie confocale.",
+      "Les protéines fusionnées à la GFP peuvent être identifiées également par western-blot.",
+      "La GFP peut émettre de la fluorescence après fixation des cellules.",
+      "La GFP permet de ralentir le déplacement des protéines intracellulaires, ce qui facilite l’observation microscopique."
+    ],
+    "reponse": 0
+  },
+
+  {
+    "q": "Après avoir réalisé un protocole de purification de chloroplastes, un expérimentateur observe l’extrait obtenu avec un microscope photonique à contraste de phase. A partir de cette observation, on peut affirmer que la fraction purifiée contient (une réponse juste) :",
+    "choix": [
+      "Environ 62% de chloroplastes intacts.",
+      "Un rendement égal à 77%.",
+      "38% de chloroplastes intacts.",
+      "Une quantité théorique de 13 mg de chlorophylle.",
+      "8 chloroplastes cassés."
+    ],
+    "reponse": 0,
+    "image": "assets/image/19.png"
+  },
+  {
+    "q": "Pour effectuer une culture cellulaire animale, il est généralement recommandé (une réponse fausse) :",
+    "choix": [
+      "De maintenir une température correspondant à celle de l’organisme d’origine.",
+      "Que les cellules aient de l’oxygène.",
+      "De respecter un taux d’humidité correspondant à celui présent dans un corps humain.",
+      "De maintenir un taux de 5% de CO2 dans l’incubateur.",
+      "De travailler en conditions stériles."
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "Les chloroplastes sont des structures d’environ 2 à 10 μm de diamètre. A l’issue d’une purification, quelle méthode rapide utiliseriez-vous pour estimer si les fractions obtenues après avoir effectué un gradient sont intactes et pures (une réponse juste) ?",
+    "choix": ["La microscopie photonique.", "La microscopie électronique.", "Le FRAP.", "Un SDS-PAGE.", "Le CLEM."],
+    "reponse": 0
+  },
+  {
+    "q": "La partie optique d’un microscope contient (une réponse juste) :",
+    "choix": [
+      "Un diaphragme qui fonctionne comme une loupe.",
+      "Des objectifs qui permettent d’éclairer l’objet de façon uniforme.",
+      "Une vis de mise au point qui permet d’ajuster les oculaires.",
+      "Un oculaire qui permet d’obtenir une image agrandie et renversée.",
+      "Deux lentilles convergentes présentes respectivement dans l’objectif et l’oculaire."
+    ],
+    "reponse": 4
+  },
+  {
+    "q": "Un microscope à épifluorescence (ou microscope à fluorescence) contient (une réponse fausse) :",
+    "choix": [
+      "Un filtre sélectionnant la longueur d’onde d’excitation d’un fluorochrome.",
+      "Un filtre sélectionnant la longueur d’onde d’émission d’un fluorochrome.",
+      "Un miroir dichroïque.",
+      "Un pinhole.",
+      "Un tube optique."
+    ],
+    "reponse": 3
+  },
+  {
+    "q": "La levure Saccharomyces cerevisiae est (une reponse juste) :",
+    "choix": [
+      "Un modèle procaryote.",
+      "Un organisme pluricellulaire.",
+      "Un organisme possédant un noyau.",
+      "Complexe à manipuler car son génome n’est pas entièrement caractérisé."
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "Les organoïdes (une réponse juste) :",
+    "choix": [
+      "Peuvent provenir de lignées cellulaires comme les cellules HeLa.",
+      "Sont plus petits en taille que les sphéroïdes.",
+      "Se forment en moins de 10 jours.",
+      "Peuvent modéliser des maladies.",
+      "Contiennent un seul type de cellules."
+    ],
+    "reponse": 3
+  },
+  {
+    "q": "Quelle est la principale différence entre un sphéroïde et un organoïde ?",
+    "choix": [
+      "Les sphéroïdes sont cultivés en 3D, pas les organoïdes.",
+      "L'organoïde est un ensemble de types cellulaires spécifiques d'un organe qui se développe de manière similaire à ce qui se passe in vivo.",
+      "Les sphéroïdes proviennent de cellules souches, pas les organoïdes.",
+      "Seuls les sphéroïdes nécessitent d'être ancrés (matrigel)."
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Les cellules primaires non cancéreuses (plusieurs réponses justes) :",
+    "choix": [
+      "Sont forcément des cellules adhérentes.",
+      "Sont immortelles.",
+      "Ne peuvent être que d’origine animale.",
+      "Peuvent être obtenues par dissociation mécanique."
+    ],
+    "reponse": 3
+  },
+  {
+    "q": "Les anticorps (une réponse juste) :",
+    "choix": [
+      "Sont notamment composés de deux chaines lourdes identiques.",
+      "Sont sécrétés par des antigènes.",
+      "Ne disposent pas de structure quaternaire.",
+      "Se lient à un antigène grâce à des liaisons covalentes.",
+      "Interagissent avec un antigène par l’intermédiaire de leur partie constante."
+    ],
+    "reponse": 0
+  },
+  {
+    "q": " Semblable à un microscope optique, mais la lumière émise passe par un ensemble de filtres avant l’échantillon pour sélectionner les longueurs d’onde qui excitent le colorant, et par un autre ensemble de filtres avant d’atteindre l’œil pour sélectionner uniquement les longueurs d’onde émises lorsque le colorant est fluorescent (une réponse juste).",
+    "choix": [
+      "Un microscope à fluorescence.",
+      "Le « Fluorescence Resonance Energy Transfer » (FRET).",
+      "Un microscope électronique à transmission.",
+      "Un microscope à contraste de phase.",
+      "Un cytomètre en flux."
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Afin d’effectuer une purification de chloroplastes à partir de 15 g de feuilles d’épinard, vous effectuez une centrifugation différentielle et reprenez le culot obtenu dans un volume total de tampon égal à 1,8 mL. En mesurant la concentration de chlorophylle dans cet échantillon par spectrophotométrie, vous obtenez 5,7 mg/mL. Quel est le rendement de cette étape de purification ?",
+    "choix": [
+      "68,4 %.",
+      "3,17 mg.",
+      "4,74 M.",
+      "10,26 mg.",
+      "0,684 %."
+    ],
+    "reponse": 0
+  }
+]

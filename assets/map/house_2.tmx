@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="16" tileheight="16" infinite="0" nextlayerid="12" nextobjectid="33">
+<map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="16" tileheight="16" infinite="0" nextlayerid="12" nextobjectid="41">
  <tileset firstgid="1" source="tileset/interieur1.tsx"/>
  <tileset firstgid="4625" source="tileset/indoor.tsx"/>
  <group id="6" name="classe">
@@ -298,16 +298,19 @@
    <object id="22" name="collision" x="192" y="176" width="16" height="256"/>
    <object id="23" name="collision" x="208" y="416" width="288" height="16"/>
    <object id="24" name="collision" x="208" y="192" width="64" height="16"/>
-   <object id="32" name="collision" x="336" y="368"/>
+   <object id="37" name="collision" x="368.333" y="176.667" width="18" height="15.3333"/>
+   <object id="38" name="collision" x="318.667" y="176" width="18" height="15.3333"/>
+   <object id="39" name="collision" x="271.667" y="176.333" width="32.6667" height="15.3333"/>
+   <object id="40" name="collision" x="336" y="352" width="16" height="16"/>
   </objectgroup>
   <objectgroup id="10" name="interface">
-   <object id="25" name="switch map_0 0" x="336" y="176" width="32" height="16"/>
-   <object id="26" name="spawn map_0 0" x="352" y="208">
+   <object id="25" name="switch house_4 0" x="336" y="176" width="32" height="16"/>
+   <object id="26" name="spawn house_4 0" x="352" y="208">
     <point/>
    </object>
   </objectgroup>
   <objectgroup id="11" name="npc">
-   <object id="28" name="npc 3" x="336" y="368">
+   <object id="28" name="npc 3" x="344" y="362.333">
     <point/>
    </object>
   </objectgroup>

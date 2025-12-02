@@ -1,6 +1,6 @@
 import pygame
-
 from game import Game
+from tool import resource_path
 
 pygame.init()
 

@@ -1,0 +1,1468 @@
+[
+  {
+    "q": "Il existe deux types de cellules animales isolées en laboratoire : les cellules adhérentes et les cellules en suspension. Parmi les éléments suivants, lesquels sont des cellules adhérentes ?",
+    "choix": ["Sang", "Fibroblastes 3T3",  "Moelle osseuse"],
+    "reponse": 1
+  },
+  {
+    "q": "La vitesse de sédimentation d’une particule dépend principalement de",
+    "choix": ["Son rayon", "Sa charge", "La pression constante"],
+    "reponse": 0
+  },
+  {
+    "q": "Quel est le nom de la femme afro-américaine dont les cellules cancéreuses sont à l'origine des cellules HeLa ?",
+    "choix": ["Henrietta Locks", "Henriana Lacks", "Henrietta Lacks", "Henriana Locks"],
+    "reponse": 2
+  },
+  {
+    "q": "Pourquoi faut-il passer les chloroplastes par centrifugation sur gradient de densité après centrifugation différentielle ?",
+    "choix": ["Séparer les chloroplastes cassés et intacts", "Pour garantir la pureté des organites", "Distinguer entre le noyau et le chloroplaste", "Pour libérer les organites dans la cellule"],
+    "reponse": 0
+  },
+  {
+    "q": "Le rouge de phénol est un détecteur de :",
+    "choix": ["Humidité de la cellule", "alcalinisation et acidification", "taux de CO2"],
+    "reponse": 2
+  },
+  {
+    "q": "À quoi sert une hotte ?",
+    "choix": ["S'assurer que les niveaux d'oxygène sont optimaux", "Pour éviter l'acidification de la culture", "Pour maintenir le taux d'humidité à 73 %", "Pour garantir des conditions stériles"],
+    "reponse": 3
+  },
+  {
+    "q": "D'où proviennent les cellules HeLa ?",
+    "choix": ["Le col de l’utérus", "Le cœur", "Le rein", "Le pancréas"],
+    "reponse": 0
+  },
+  {
+    "q": "Si le western blot est utilisé pour détecter les protéines, le northern blot est utilisé pour détecter :",
+    "choix": ["l’ADN", "l’ARN", "les noyaux", "les mitochondries"],
+    "reponse": 1
+  },
+  {
+    "q": "Selon la loi de Stokes, la vitesse de sédimentation d'une particule dépend principalement de :",
+    "choix": ["Sa vitesse de migration", "Son rayon", "Son poids moléculaire"],
+    "reponse": 1
+  },
+  {
+    "q": "Quel est l’intérêt d’utiliser un contrôle de charge lors d’une analyse par western blot ?",
+    "choix": [
+      "Contrôler la qualité des anticorps utilisés.",
+      "S'assurer que les variations d’intensité observées ne sont pas dues à des différences dans la quantité totale de protéines chargées.",
+      "Détecter les interactions protéine-protéine.",
+      "S’assurer que la détection des protéines d’intérêt est spécifique."
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "En considérant la limite du pouvoir de résolution théorique de l’œil humain, vous pouvez affirmer qu’il est possible d’observer sans l’aide d’un microscope (une réponse juste) :",
+    "choix": ["Un organoïde.", "Une protéine GFP.", "Une cellule HeLa.", "Une levure Saccharomyces cerevisiae.", "Une bactérie Escherichia coli."],
+    "reponse": 0
+  },
+  {
+    "q": "Qu’est-ce que la chimiluminescence (une réponse juste) ?",
+    "choix": [
+      "Une réaction chimique induisant une émission de lumière.",
+      "Une émission de lumière provoquée par l’excitation des électrons d’une molécule.",
+      "Une émission de lumière induite par l’absorption de photons.",
+      "Une production d’un produit coloré à la suite d’une réaction d’oxydoréduction.",
+      "Une émission de lumière par un anticorps secondaire qui interagit avec un anticorps primaire."
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Selon la loi de Stokes, la vitesse de sédimentation d’une particule augmentera (plusieurs réponses justes) :",
+    "choix": [
+      "Plus la vitesse de centrifugation sera importante.",
+      "Plus la densité de la particule sera faible.",
+      "Moins la température du milieu sera élevée.",
+      "Lors de son homogénéisation."
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Vous avez isolé une fraction subcellulaire contenant des lysosomes par centrifugation sur gradient de saccharose. Comment évalueriez-vous sa pureté (une réponse juste) ?",
+    "choix": [
+      "En examinant cette fraction par microscopie électronique.",
+      "En mesurant l’absorbance de cette fraction par spectrophotométrie.",
+      "En réalisant un western-blot à l’aide d’un anticorps dirigé contre une protéine exprimée sur les lysosomes.",
+      "En analysant cette fraction par électrophorèse puis par microscopie optique."
+    ],
+    "reponse": 0
+  },
+  {
+    "q": " En hybridant la fraction avec une sonde complémentaire des lysosomes.Quelle technique ne permet pas de détecter des acides nucléiques (une réponse juste) ?",
+    "choix": ["Le southern-blot.", "Le northern-blot.", "Le western-blot.", "La cytométrie en flux.", "Le FISH (hybridation in situ en fluorescence)."],
+    "reponse": 2
+  },
+  {
+    "q": "Parmi les propositions ci-dessous, laquelle correspond à une étape du northern-blot (une réponse juste) ?",
+    "choix": [
+      "Electrophorèse pour séparer des fragments d’ADN totaux.",
+      "Transfert de l’ADN sur une membrane.",
+      "Hybridation avec une sonde marquée pour détecter un ARNm.",
+      "Incubation avec un anticorps primaire.",
+      "Révélation de la protéine par fluorescence."
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "Quel est l’avantage de l’utilisation de la GFP par rapport aux anticorps marqués par fluorescence pour étudier le mouvement d’une protéine à l’intérieur des cellules (une réponse juste) ?",
+    "choix": [
+      "Les protéines fusionnées à la GFP peuvent être exprimées dans des cellules vivantes.",
+      "La GFP peut être observée par microscopie confocale.",
+      "Les protéines fusionnées à la GFP peuvent être identifiées également par western-blot.",
+      "La GFP peut émettre de la fluorescence après fixation des cellules.",
+      "La GFP permet de ralentir le déplacement des protéines intracellulaires, ce qui facilite l’observation microscopique."
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Après avoir réalisé un protocole de purification de chloroplastes, un expérimentateur observe l’extrait obtenu avec un microscope photonique à contraste de phase. A partir de cette observation, on peut affirmer que la fraction purifiée contient (une réponse juste) :",
+    "choix": [
+      "Environ 62% de chloroplastes intacts.",
+      "Un rendement égal à 77%.",
+      "38% de chloroplastes intacts.",
+      "Une quantité théorique de 13 mg de chlorophylle.",
+      "8 chloroplastes cassés."
+    ],
+    "reponse": 0,
+    "image": "assets/image/19.png"
+  },
+  {
+    "q": "Pour effectuer une culture cellulaire animale, il est généralement recommandé (une réponse fausse) :",
+    "choix": [
+      "De maintenir une température correspondant à celle de l’organisme d’origine.",
+      "Que les cellules aient de l’oxygène.",
+      "De respecter un taux d’humidité correspondant à celui présent dans un corps humain.",
+      "De maintenir un taux de 5% de CO2 dans l’incubateur.",
+      "De travailler en conditions stériles."
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "Les chloroplastes sont des structures d’environ 2 à 10 μm de diamètre. A l’issue d’une purification, quelle méthode rapide utiliseriez-vous pour estimer si les fractions obtenues après avoir effectué un gradient sont intactes et pures (une réponse juste) ?",
+    "choix": ["La microscopie photonique.", "La microscopie électronique.", "Le FRAP.", "Un SDS-PAGE.", "Le CLEM."],
+    "reponse": 0
+  },
+  {
+    "q": "La partie optique d’un microscope contient (une réponse juste) :",
+    "choix": [
+      "Un diaphragme qui fonctionne comme une loupe.",
+      "Des objectifs qui permettent d’éclairer l’objet de façon uniforme.",
+      "Une vis de mise au point qui permet d’ajuster les oculaires.",
+      "Un oculaire qui permet d’obtenir une image agrandie et renversée.",
+      "Deux lentilles convergentes présentes respectivement dans l’objectif et l’oculaire."
+    ],
+    "reponse": 4
+  },
+  {
+    "q": "Un microscope à épifluorescence (ou microscope à fluorescence) contient (une réponse fausse) :",
+    "choix": [
+      "Un filtre sélectionnant la longueur d’onde d’excitation d’un fluorochrome.",
+      "Un filtre sélectionnant la longueur d’onde d’émission d’un fluorochrome.",
+      "Un miroir dichroïque.",
+      "Un pinhole.",
+      "Un tube optique."
+    ],
+    "reponse": 3
+  },
+  {
+    "q": "La levure Saccharomyces cerevisiae est (une reponse juste) :",
+    "choix": [
+      "Un modèle procaryote.",
+      "Un organisme pluricellulaire.",
+      "Un organisme possédant un noyau.",
+      "Complexe à manipuler car son génome n’est pas entièrement caractérisé."
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "Les organoïdes (une réponse juste) :",
+    "choix": [
+      "Peuvent provenir de lignées cellulaires comme les cellules HeLa.",
+      "Sont plus petits en taille que les sphéroïdes.",
+      "Se forment en moins de 10 jours.",
+      "Peuvent modéliser des maladies.",
+      "Contiennent un seul type de cellules."
+    ],
+    "reponse": 3
+  },
+  {
+    "q": "Quelle est la principale différence entre un sphéroïde et un organoïde ?",
+    "choix": [
+      "Les sphéroïdes sont cultivés en 3D, pas les organoïdes.",
+      "L'organoïde est un ensemble de types cellulaires spécifiques d'un organe qui se développe de manière similaire à ce qui se passe in vivo.",
+      "Les sphéroïdes proviennent de cellules souches, pas les organoïdes.",
+      "Seuls les sphéroïdes nécessitent d'être ancrés (matrigel)."
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Les cellules primaires non cancéreuses (plusieurs réponses justes) :",
+    "choix": [
+      "Sont forcément des cellules adhérentes.",
+      "Sont immortelles.",
+      "Ne peuvent être que d’origine animale.",
+      "Peuvent être obtenues par dissociation mécanique."
+    ],
+    "reponse": 3
+  },
+  {
+    "q": "Les anticorps (une réponse juste) :",
+    "choix": [
+      "Sont notamment composés de deux chaines lourdes identiques.",
+      "Sont sécrétés par des antigènes.",
+      "Ne disposent pas de structure quaternaire.",
+      "Se lient à un antigène grâce à des liaisons covalentes.",
+      "Interagissent avec un antigène par l’intermédiaire de leur partie constante."
+    ],
+    "reponse": 0
+  },
+  {
+    "q": " Semblable à un microscope optique, mais la lumière émise passe par un ensemble de filtres avant l’échantillon pour sélectionner les longueurs d’onde qui excitent le colorant, et par un autre ensemble de filtres avant d’atteindre l’œil pour sélectionner uniquement les longueurs d’onde émises lorsque le colorant est fluorescent (une réponse juste).",
+    "choix": [
+      "Un microscope à fluorescence.",
+      "Le « Fluorescence Resonance Energy Transfer » (FRET).",
+      "Un microscope électronique à transmission.",
+      "Un microscope à contraste de phase.",
+      "Un cytomètre en flux."
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Afin d’effectuer une purification de chloroplastes à partir de 15 g de feuilles d’épinard, vous effectuez une centrifugation différentielle et reprenez le culot obtenu dans un volume total de tampon égal à 1,8 mL. En mesurant la concentration de chlorophylle dans cet échantillon par spectrophotométrie, vous obtenez 5,7 mg/mL. Quel est le rendement de cette étape de purification ?",
+    "choix": [
+      "68,4 %.",
+      "3,17 mg.",
+      "4,74 M.",
+      "10,26 mg.",
+      "0,684 %."
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Le ribosome eucaryote complet est composé de :",
+    "choix": [
+      "60S + 30S",
+      "60S + 40S",
+      "70S",
+      "80S + 18S"
+    ],
+    "reponse": 1},
+  {
+    "q": "L’activité peptidyl-transférase du ribosome est assurée par :",
+    "choix": [
+      "L’ARNr 28S (ou 23S chez les procaryotes)",
+      "Les protéines ribosomiques",
+      "L’ARNt initiateur",
+      "Le facteur EF2"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "L’inosine (I) dans certains ARNt :",
+    "choix": [
+      "S’apparie uniquement avec A",
+      "Peut s’apparier à U, C ou A",
+      "Rend l’appariement plus strict",
+      "Se trouve sur la 3ᵉ base du codon"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "La traduction eucaryote débute par la reconnaissance de :",
+    "choix": [
+      "La séquence Shine-Dalgarno",
+      "La coiffe 7-méthylguanosine (cap)",
+      "Le signal peptide",
+      "La séquence Kozak (gccRccAUGG)"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Le ribosome synthétise la protéine dans la direction :",
+    "choix": [
+      "3′ → 5′ sur l’ARNm",
+      "N-terminal → C-terminal",
+      "C-terminal → N-terminal",
+      "De la queue poly-A vers la coiffe"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "La N-formyl-méthionine (fMet) est utilisée :",
+    "choix": [
+      "Par les procaryotes",
+      "Par les eucaryotes cytoplasmiques",
+      "Par les mitochondries et chloroplastes",
+      "Jamais dans les cellules vivantes"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Le facteur eIF2 est inactif quand il est :",
+    "choix": [
+      "Complexé avec GTP",
+      "Phosphorylé",
+      "Complexé avec GDP"],
+    "reponse": 1
+  },
+  {
+    "q": "Lors d’un stress cellulaire, la phosphorylation de eIF2 :",
+    "choix": [
+      "Stimule la traduction",
+      "Inhibe la formation du complexe d’initiation",
+      "Active le ribosome 60S",
+      "Déphosphoryle l’ARNm"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Les protéines Hsp70 :",
+    "choix": [
+      "Stabilisent les polypeptides naissants",
+      "Catalysent des réactions d’oxydation",
+      "Font partie du ribosome"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Les chaperonines Hsp60 :",
+    "choix": [
+      "Sont présentes uniquement dans le cytosol",
+      "Font partie du Golgi",
+      "Forment des complexes en double anneau"
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "La PDI (Protein Disulfide Isomerase) est active :",
+    "choix": [
+      "Dans le cytosol réducteur",
+      "Dans le RE oxydant",
+      "Dans le Golgi",
+      "Dans les lysosomes"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "La peptidyl-prolyl isomérase Pin1 agit spécifiquement sur :",
+    "choix": [
+      "Les liaisons Ser–Gly",
+      "Les motifs pSer/Thr–Pro phosphorylés",
+      "Les ponts disulfures",
+      "Les glycosylations N-liées"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Une protéine destinée au RE contient :",
+    "choix": [
+      "Une séquence signal hydrophobe en N-terminal",
+      "Une séquence Lys–Asp–Glu–Leu",
+      "Un motif mannose-6-phosphate",
+      "Une queue poly-A"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "La SRP (Signal Recognition Particle) :",
+    "choix": [
+      "Arrête temporairement la traduction",
+      "Ne reconnaît la séquence signal",
+      "Dégrade le peptide signal",
+      "Transporte directement vers le noyau"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "La translocation co-traductionnelle nécessite :",
+    "choix": [
+      "Le complexe SRP/SRP-récepteur",
+      "Le complexe Sec62/63",
+      "Un ligant",
+      "Une séquence signal interne"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Le clivage du peptide signal est réalisé par :",
+    "choix": [
+      "La PDI",
+      "La BiP",
+      "Une peptidase spécifique de la séquence signal",
+      "L’eIF2"
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "La BiP (GRP78) agit dans le RE comme :",
+    "choix": [
+      "Chaperon Hsp70 dépendant de l’ATP",
+      "Protéine ribosomique",
+      "Signal d’export vers le Golgi"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "La glycosylation N-liée se produit sur :",
+    "choix": [
+      "La sérine",
+      "La thréonine",
+      "L’asparagine",
+      "L’acide glutamique"
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "Le support lipidique impliqué dans la N-glycosylation est :",
+    "choix": [
+      "Cholestérol",
+      "Dolichol phosphate",
+      "Céramide",
+      "Sphingosine"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Dans le Golgi, la face cis reçoit :",
+    "choix": [
+      "Les vésicules issues du RE",
+      "Les vésicules COPI",
+      "Les vésicules lysosomales",
+      "Les endosomes tardifs"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Les glycosyltransférases du Golgi :",
+    "choix": [
+      "Ajoutent des sucres successifs",
+      "Suppriment les glucose résiduels",
+      "Modifient uniquement les lipides",
+      "Sont cytosoliques"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Le mannose-6-phosphate marque :",
+    "choix": [
+      "Les protéines destinées aux lysosomes",
+      "Les protéines du RE",
+      "Les enzymes mitochondriales",
+      "Les protéines ribosomales"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Les protéines O-glycosylées sont modifiées sur :",
+    "choix": [
+      "Les chaînes latérales de sérine ou thréonine",
+      "L’asparagine",
+      "La glycine",
+      "La proline"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Les vésicules COPII effectuent le transport :",
+    "choix": [
+      "Du RE vers l’appareil de Golgi",
+      "Du Golgi vers le RE",
+      "Du Golgi vers le lysosome",
+      "De l’endosome vers la MP"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Les vésicules COPI :",
+    "choix": [
+      "Transportent du RE vers Golgi",
+      "Font le transport rétrograde Golgi → RE",
+      "Sont présentes dans les mitochondries",
+      "Sont impliquées dans la dégradation autophagique"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Les vésicules à clathrine :",
+    "choix": [
+      "Transportent du RE vers le Golgi",
+      "Participent à l’endocytose",
+      "Transportent les protéines ribosomales"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Les protéines Rab sont :",
+    "choix": [
+      "De petites GTPases de reconnaissance membranaire",
+      "Des chaperones luminales",
+      "Des récepteurs du mannose-6-P",
+      "Des glycosidases"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Les protéines SNARE assurent :",
+    "choix": [
+      "La fusion spécifique vésicule/membrane cible",
+      "L’attachement de la SRP au ribosome",
+      "L’hydrolyse du GTP",
+      "La dégradation du cargo"
+    ],
+    "reponse": 0},
+  {
+    "q": "Les hydrolases lysosomales :",
+    "choix": [
+      "Fonctionnent à pH basique (~12)",
+      "Sont protégées de l’autodigestion par la membrane lysosomale",
+      "Sont actives à pH neutre",
+      "Nécessitent la BiP pour leur transport"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "L’autophagie permet :",
+    "choix": [
+      "L’import des protéines vers le RE",
+      "L’export des protéines du noyau",
+      "La dégradation des composants cytoplasmiques",
+      "L’élimination des organites sains"
+    ],
+    "reponse": 2
+  },
+
+  {
+    "q": "Le cytosquelette :",
+    "choix": [
+      "Est conservé dans l’évolution des eucaryotes et des procaryotes",
+      "Est conservé dans l’évolution des eucaryotes",
+      "Est conservé dans l’évolution des procaryotes",
+      "N’est pas conservé dans l’évolution"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "L’actine est :",
+    "choix": [
+      "Rigide",
+      "Flexible",
+      "Semi-flexible",
+      "Semi-rigide"
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "Vrai ou faux, la myosine II n’est que dans les cellules musculaires",
+    "choix": [
+      "Vrai",
+      "Faux"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Il y a treadmilling quand :",
+    "choix": [
+      "Cc pointue < [monomères] < Cc brosse",
+      "Cc pointue = [monomères] = Cc brosse",
+      "Cc pointue > [monomères] < Cc brosse",
+      "Cc pointue > [monomères] > Cc brosse"
+    ],
+    "reponse": 3
+  },
+
+  {
+    "q": "Les formines se lient :",
+    "choix": [
+      "À la profiline",
+      "Au complexe Arp ⅔",
+      "À la thymosine",
+      "À un ATP"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Paramètres cinétiques (une réponse fausse) :",
+    "choix": [
+      "Le kon dépend de la concentrations en monomères",
+      "Le kon s’exprime en M.min-1",
+      "Le koff s’exprime en sec-1",
+      "Le koff ne dépend pas de la concentration en monomères"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "In vitro, Cc actine est égale à :",
+    "choix": [
+      "0.1 µM",
+      "0.5 µM",
+      "0.5 nM",
+      "0.1 nM"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Les filaments intermédiaires :",
+    "choix": [
+      "Sont tous similaires",
+      "Sont composées de beaucoup de feuilletés ß",
+      "Sont très dynamiques",
+      "Leur assemblage ne consomme pas d’énergie"
+    ],
+    "reponse": 3
+  },
+  {
+    "q": "La migration cellulaire se produit grâce aux :",
+    "choix": [
+      "Microtubules",
+      "Microfilaments d’actine",
+      "Filaments intermédiaires",
+      "Septines"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "La cofiline se lie préférentiellement sur des microfilaments d’actine plus ”anciens”. Comment peut-elle distinguer les microfilaments anciens de ceux nouvellement polymérisés ?",
+    "choix": [
+      "Les microfilaments anciens sont riches en ADP.",
+      "Les microfilaments anciens contiennent de la formine.",
+      "Les microfilaments anciens contiennent de la profiline.",
+      "Les microfilaments anciens sont beaucoup plus rigides (longueur de persistance augmentée)"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "En quoi la profiline, une protéine se liant aux monomères d’actine, peut-elle favoriser l’élongation des microfilaments d’actine ?",
+    "choix": [
+      "Elle accélère l’élongation des polymères d’actine aux extrémités en brosse (+) et pointues (-).",
+      "Elle peut interagir avec des protéines favorisant la nucléation des microfilaments.",
+      "Elle permet au complexe Arp2/3 de former des branches au niveau des microfilaments.",
+      "Elle inhibe l’hydrolyse du nucléotide présent dans les monomères d’actine.",
+      "Elle permet à des nucléateurs d’allonger rapidement des microfilaments à partir des extrémités pointues (-)."
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Que se passe-t-il lors de la phase d’élongation d’un polymère d’actine in vitro ?",
+    "choix": [
+      "Les monomères d’actine s’ajoutent aux extrémités en brosse (+) et pointues (–) des polymères en croissance, si elles sont exposées.",
+      "Les monomères d’actine s’ajoutent uniquement aux extrémités en brosse (+) des polymères en croissance.",
+      "Les monomères d’actine s’ajoutent à la même vitesse aux extrémités en brosse (+) et pointues (–) des polymères en croissance, si elles sont exposées.",
+      "Des sous-unités des microtubules peuvent se dissocier des polymères en croissance à un taux constant.",
+      "La concentration critique des monomères d’actine diminue"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Pourquoi les filaments intermédiaires ont-ils des extrémités identiques et manquent-ils de polarité, contrairement aux microfilaments d’actine et aux microtubules ?",
+    "choix": [
+      "Parce que l’élément constitutif des filaments intermédiaires contient des tétramères symétriques aux extrémités identiques.",
+      "Parce que l’élément constitutif des filaments intermédiaires contient des tétramères asymétriques aux extrémités polaires.",
+      "Parce que l’élément constitutif des filaments intermédiaires contient des tétramères parallèles aux extrémités peu dynamiques.",
+      "Parce que l’élément constitutif des filaments intermédiaires contient des monomères disposant une région centrale hélicoïdale, d’une fonction amine et d’une fonction carboxylique.",
+      "Parce que l’élément constitutif des filaments intermédiaires contient des dimères antiparallèles super-enroulés, ce qui expose des extrémités protéiques identiques."
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Quel est le rôle des filaments intermédiaires dans le cytosquelette ?",
+    "choix": [
+      "Ils sont responsables de la division cellulaire",
+      "Ils aident à la contraction musculaire",
+      "Ils maintiennent la forme de la cellule",
+      "Ils sont impliqués dans le transport intracellulaire"
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "Au niveau de la strie Z d’un sarcomère, vous pouvez affirmer que les microfilaments d’actine :",
+    "choix": [
+      "Sont ancrés au niveau de leur extrémité pointue",
+      "Sont organisés de façon perpendiculaire",
+      "Forment la bande A",
+      "Sont ancrés au niveau de leur extrémité en brosse",
+      "Polymérisent rapidement"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Lorsque 2µM de monomères d’actine sont mis à polymériser in vitro on peut affirmer que :",
+    "choix": [
+      "Il y aura 0.1µM d’actine polymérisée au maximum à l’état d’équilibre.",
+      "Il n’y aura pas de polymérisation car cette concentration est supérieure à la concentration critique.",
+      "Il n’y aura pas de phase de latence.",
+      "Il n’y aura plus de monomères d’actine lorsque l’état d’équilibre sera atteint.",
+      "La polymérisation de chaque microfilament s’effectuera au niveau de leurs deux extrémités lors de la phase d’élongation."
+    ],
+    "reponse": 4
+  },
+  {
+    "q": "La bactérie Listeria monocytogenes peut infecter des cellules et former des comètes d'actine dans le cytoplasme des cellules infectées. Cela peut s'expliquer parce que (une réponse juste) :",
+    "choix": [
+      "La bactérie inhibe la dépolymérisation des microfilaments d’actine.",
+      "La bactérie exprime une protéine à sa surface qui peut activer le complexe Arp2/3 et ainsi générer des réseaux d’actine branchés.",
+      "La bactérie inhibe le complexe Arp2/3, ce qui favorise la formation de réseaux d’actine linéaires.",
+      "La bactérie augmente la concentration intracellulaire d’actine, ce qui facilite la formation de réseaux d’actine branchés.",
+      "La bactérie exprime une protéine à sa surface qui peut activer des formines et ainsi générer des réseaux d’actine branchés."
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Les molécules de myosine II (une réponse fausse) :",
+    "choix": [
+      "Ont besoin de leur queue torsadée pour avoir une activité motrice.",
+      "Ont un rôle majeur dans la contraction des microfilaments d’actine orientés de façon opposée dans un sarcomère.",
+      "Ont une queue torsadée requise pour leur assemblage en filaments bipolaires.",
+      "Sont caractérisées par des bandes sombres dans un sarcomère.",
+      "Ont deux domaines moteurs."
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "En utilisant 1.4 mg/mL de tubuline purifiée, les microtubules polymérisent à une vitesse d’environ 2 μm/min. En considérant cette vitesse, environ combien de dimères de tubuline alpha-beta (longueur de 8 nm) au total sont ajoutés aux extrémités d’un microtubule chaque seconde (une réponse juste) ?",
+    "choix": [
+      "13.",
+      "252.",
+      "54.",
+      "33.",
+      "4,2."
+    ],
+    "reponse": 4
+  },
+  {
+    "q": "Les desmosomes (une réponse juste) :",
+    "choix": [
+      "Relient les cytosquelettes d’actine de cellules épithéliales adjacentes.",
+      "Sont constitués des protéines adaptatrices desmocollines et desmogléines.",
+      "Sont retrouvés au niveau du pôle basal des cellules épithéliales, en contact avec la lame basale.",
+      "Sont constitués des protéines transmembranaires claudine et occludine.",
+      "Sont observés en microscopie électronique sous forme de disques ovoïdes ou macula."
+    ],
+    "reponse": 4
+  },
+  {
+    "q": "A propos des interactions cellulaires dans les tissus épithéliaux (une réponse fausse) :",
+    "choix": [
+      "Les desmosomes et les hémidesmosomes permettent la formation d’un réseau de filaments intermédiaires renforçant la résistance mécanique des tissus épithéliaux.",
+      "Les jonctions serrées séparent les domaines apicaux des cellules épithéliales des domaines basolatéraux.",
+      "Les jonctions gap permettent le passage de protéines et d’ARN d’une cellule à l’autre.",
+      "Les cadhérines sont des protéines d’adhérence transmembranaires trouvées au niveau des desmosomes.",
+      "Les hémidesmosomes sont des interactions d’ancrage cellule-matrice extracellulaire."
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "Qu’est-ce que la concentration critique de l’actine (une réponse juste) ?",
+    "choix": [
+      "La concentration maximale de polymères d’actine nécessaire au maintien de la longueur d’un microfilament d’actine.",
+      "La concentration minimale de monomères d’actine qui n’est pas nécessaire à la formation d’un polymère d’actine.",
+      "La concentration maximale de monomères d’actine nécessaire à la formation d’un polymère d’actine.",
+      "La concentration maximale de monomères d’actine qui n’est pas nécessaire à la formation d’un polymère d’actine.",
+      "La concentration minimale de monomères d’actine nécessaire à la formation d’un polymère d’actine."
+    ],
+    "reponse": 4
+  },
+  {
+    "q": "A propos des protéines associées aux filaments du cytosquelette : (une réponse juste)",
+    "choix": [
+      "Les dynéines sont des moteurs moléculaires associés à tous les filaments du cytosquelette.",
+      "Les myosines sont des moteurs moléculaires qui transforment l’énergie chimique du CTP en énergie mécanique nécessaire à des mouvements telle que la contraction.",
+      "Le complexe Arp2/3 permet la fragmentation des filaments d’actines.",
+      "Les protéines dites ”cap protéines” en interagissant avec les extrémités plus des microtubules stabilisent ces derniers.",
+      "Les kinésines sont des complexes protéiques contenant trois domaines moteurs."
+    ],
+    "reponse": 3
+  },
+  {
+    "q": "A propos de l’organisation et de la dynamique des filaments d’actine : (une réponse fausse)",
+    "choix": [
+      "Les filaments d’actine sont des polymères asymétriques.",
+      "Le modèle du tapis roulant de polymérisation des microfilaments s’applique aussi aux microtubules.",
+      "Les lamellipodes contiennent des réseaux de filaments d’actine.",
+      "Le cortex cellulaire contient un réseau de très longs filaments d’actine attachés à l’enveloppe nucléaire.",
+      "Lorsqu’une cellule se déplace sur un support, son front de migration contient des faisceaux de microfilaments dont certains vont être impliqués dans la formation d’adhérences focales."
+    ],
+    "reponse": 3
+  },
+  {
+    "q": "A propos de la polymérisation des microtubules : (une réponse juste)",
+    "choix": [
+      "In vivo, les microtubules s’allongent uniquement à partir de leurs extrémités plus.",
+      "Au cours de la polymérisation des microtubules, les sous unités alpha de la tubuline sont ajoutées aux extrémités moins des microtubules et les sous unités bêta sont ajoutées aux extrémités plus des microtubules .",
+      "In vivo, la polymérisation des microtubules est réalisée à vitesse constante.",
+      "La polymérisation des microtubules dépend de la concentration locale en CTP.",
+      "Une fois polymérisés, les microtubules mitotiques restent stables indéfiniment."
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Propriétés des protéines constitutives du cytosquelette : (une réponse fausse)",
+    "choix": [
+      "La nature des protéines trouvées dans les filaments intermédiaires varie en fonction des tissus.",
+      "Pour pouvoir former des microfilaments, l’actine G s’associe d’abord avec de l’UMP.",
+      "Les protéines des filaments intermédiaires contiennent toutes une région centrale hélicoïdale et des domaines N et C terminaux globulaires.",
+      "Les tubulines alpha et bêta forment des hétérodimères.",
+      "Les lamines sont des protéines du cytosquelette dont la localisation est nucléaire."
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "A propos de la lamine nucléaire : (une réponse fausse)",
+    "choix": [
+      "La lamine tapisse la face interne de l’enveloppe nucléaire.",
+      "Les filaments de lamine se dépolymérisent dans les cellules en mitose.",
+      "La lamine est un constituant du nucléosome.",
+      "La lamine appartient à la famille des filaments intermédiaires.",
+      "La lamine est en contact avec l’hétérochromatine."
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "L’instabilité dynamique entraîne une croissance ou une dépolymérisation rapide des microtubules. Considérez un microtubule individuel en cours de dépolymérisation dans un tube à essai : que se passerait-il s’il n’a que du GDP (et pas de GTP) présent dans la solution (une réponse juste) ?",
+    "choix": [
+      "Le microtubule arrêterait de dépolymériser parce que les dimères de tubuline ne pourraient plus effectuer d’hydrolyse du nucléotide.",
+      "Le microtubule arrêterait de dépolymériser parce que les dimères de tubuline disposeraient d’une coiffe GDP stabilisant l’extrémité moins (–).",
+      "Le microtubule continuerait à dépolymériser jusqu’à ce que les homodimères de tubuline atteignent la concentration critique minimale requise pour repolymériser.",
+      "Le microtubule continuerait à dépolymériser parce que les dimères de tubuline ne s’ajouteraient pas de manière stable au microtubule.",
+      "Le microtubule recommencerait à polymériser parce que les dimères de tubuline ne seraient plus en déséquilibre avec le GTP présent, ce qui est à l’origine de l’instabilité dynamique."
+    ],
+    "reponse": 3
+  },
+  {
+    "q": "Parmi les propositions ci-dessous, laquelle correspond à cette définition : ”Assemblage de protéines contenant notamment une forme spéciale de tubuline qui agit comme un nucléateur efficace des microtubules” (une réponse juste) ?",
+    "choix": [
+      "Le centrosome.",
+      "Les complexes en anneau de tubuline gamma (γ-TuRC).",
+      "La tubuline.",
+      "Le centre organisateur des microtubules (MTOC).",
+      "Le centriole."
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Quelle drogue se lie aux monomères d'actine (Actine-G) et empêche leur polymérisation ?",
+    "choix": [
+      "Phalloïdine",
+      "Taxol (Paclitaxel)",
+      "Latrunculine",
+      "Colchicine",
+      "Cytochalasine D"
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "Concernant les moteurs moléculaires (une réponse juste) :",
+    "choix": [
+      "Les kinésines se déplacent majoritairement vers l'extrémité moins (-) des microtubules.",
+      "Les dynéines sont impliquées dans le transport rétrograde (vers le centre de la cellule).",
+      "La myosine II est un moteur qui se déplace le long des filaments intermédiaires.",
+      "Tous les moteurs moléculaires hydrolysent du GTP pour générer du mouvement.",
+      "La myosine V se déplace vers l'extrémité pointue (-) des microfilaments."
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Le complexe ૪-TuRC est essentiel pour :",
+    "choix": [
+      "La nucléation des microfilaments d'actine.",
+      "La stabilisation des filaments intermédiaires.",
+      "La nucléation des microtubules au centrosome.",
+      "La formation des comètes d'actine par Listeria.",
+      "L'hydrolyse de l'ATP par la myosine II."
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "Les jonctions adhérentes (zonula adherens) diffèrent des desmosomes (macula adherens) principalement parce que :",
+    "choix": [
+      "Les jonctions adhérentes lient la cellule à la matrice extracellulaire, les desmosomes lient les cellules entre elles.",
+      "Les jonctions adhérentes sont associées aux filaments intermédiaires, les desmosomes aux microfilaments d'actine.",
+      "Les jonctions adhérentes sont associées aux microfilaments d'actine, les desmosomes aux filaments intermédiaires.",
+      "Les jonctions adhérentes utilisent des intégrines, les desmosomes des cadhérines.",
+      "Les jonctions adhérentes forment la \"zonula occludens\", les desmosomes la \"macula adherens\"."
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "La \"catastrophe\" dans le contexte de l'instabilité dynamique des microtubules correspond à :",
+    "choix": [
+      "L'hydrolyse rapide du GTP en GDP sur la tubuline ß au sein du polymère.",
+      "Le passage soudain de la polymérisation à la dépolymérisation.",
+      "Le moment où la concentration en tubuline libre atteint la concentration critique.",
+      "L'assemblage des 13 protofilaments pour former un tube complet.",
+      "Le sauvetage du microtubule par ajout d'une coiffe GTP."
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Les protéines Tau et MAP2 sont des MAPs (Microtubule-Associated Proteins) qui ont pour fonction principale :",
+    "choix": [
+      "De couper les microtubules (comme la katanine).",
+      "De nucléer la polymérisation des microtubules au centrosome.",
+      "De stabiliser les microtubules en se liant sur leur longueur.",
+      "D'agir comme des moteurs moléculaires se déplaçant vers l'extrémité plus.",
+      "De faciliter l'hydrolyse du GTP par la tubuline ß."
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "Laquelle de ces affirmations sur les filaments intermédiaires est fausse ?",
+    "choix": [
+      "Ils sont présents chez tous les eucaryotes, y compris les levures.",
+      "Ils confèrent une résistance mécanique majeure aux cellules contre l'étirement.",
+      "L'unité de base assemblée est un tétramère non polarisé.",
+      "Les kératines (cellules épithéliales) et la vimentine (cellules mésenchymateuses) sont des exemples de filaments intermédiaires.",
+      "Ils s'ancrent au niveau des desmosomes et hémidesmosomes."
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "L'assemblage de l'actine par les formines diffère de celui médié par le complexe Arp2/3 car les formines :",
+    "choix": [
+      "Créent des réseaux d'actine branchés (arborescents) à 70°.",
+      "Restent associées à l'extrémité moins (-) du filament en croissance.",
+      "Sont activées par la protéine WASp.",
+      "Favorisent la polymérisation de longs filaments linéaires (non branchés).",
+      "Hydrolysent l'ATP pour fournir l'énergie de la polymérisation."
+    ],
+    "reponse": 3
+  },
+  {
+    "q": "Laquelle de ces protéines séquestre les monomères d'actine-ATP, créant un \"réservoir\" de monomères non polymérisables ?",
+    "choix": [
+      "Profiline",
+      "Thymosine ß4",
+      "Cofiline",
+      "Gelsoline",
+      "Complexe Arp2/3"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Lors de la migration cellulaire, la rétraction de l'arrière de la cellule (queue uropode) est principalement médiée par :",
+    "choix": [
+      "La dépolymérisation rapide des microtubules.",
+      "La contraction des fibres de stress (actine) par la myosine II.",
+      "L'activité des kinésines sur le réseau d'actine.",
+      "L'effondrement du réseau de filaments intermédiaires.",
+      "La polymérisation rapide de l'actine au niveau du lamellipode."
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Le centrosome est le principal centre organisateur des microtubules (MTOC) chez :",
+    "choix": [
+      "Les cellules végétales",
+      "Les cellules animales",
+      "Les bactéries",
+      "Les champignons",
+      "Toutes les cellules eucaryotes"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Vrai ou faux : La polymérisation des microfilaments d'actine est un processus qui consomme de l'ATP.",
+    "choix": [
+      "Vrai",
+      "Faux"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Parmi les propositions suivantes, laquelle est une protéine de coiffe (capping protein) de l'actine ?",
+    "choix": [
+      "La profiline",
+      "La thymosine ß4",
+      "La gelsoline",
+      "Le complexe Arp2/3",
+      "La CapZ"
+    ],
+    "reponse": 4
+  },
+  {
+    "q": "Les kinésines se déplacent généralement vers quelle extrémité des microtubules ?",
+    "choix": [
+      "L'extrémité plus (+)",
+      "L'extrémité moins (-)",
+      "Les deux extrémités",
+      "Elles ne se déplacent pas, elles stabilisent",
+      "Elles se déplacent le long des filaments intermédiaires"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Laquelle de ces affirmations concernant les filaments intermédiaires est vraie ?",
+    "choix": [
+      "Ils sont très dynamiques et subissent une instabilité dynamique.",
+      "Ils sont formés par l'assemblage de dimères polarisés.",
+      "Ils sont composés de sous-unités de tubuline.",
+      "Ils sont non polarisés et confèrent une résistance mécanique.",
+      "Ils sont impliqués dans la contraction musculaire."
+    ],
+    "reponse": 3
+  },
+  {
+    "q": "Le cytosquelette est :",
+    "choix": [
+      "Un ensemble de filaments protéiques uniquement extracellulaires",
+      "Présent chez tous les organismes vivants",
+      "Un réseau dynamique intracellulaire participant à la forme et aux mouvements cellulaires",
+      "Composé uniquement de microtubules",
+      "Un système rigide et permanent"
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "Les microfilaments d’actine sont constitués de :",
+    "choix": [
+      "Dimères d’actine G",
+      "Monomères d’actine F",
+      "Dimères d’actine α et β",
+      "Monomères d’actine G polymérisés",
+      "Hétérodimères d’actine–tubuline"
+    ],
+    "reponse": 3
+  },
+  {
+    "q": "La polymérisation de l’actine est favorisée lorsque :",
+    "choix": [
+      "La concentration en monomères est supérieure à la concentration critique",
+      "La concentration en monomères est inférieure à la concentration critique",
+      "Il n’y a plus d’ATP disponible",
+      "Les extrémités sont coiffées par des protéines",
+      "L’actine est sous forme ADP"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Le complexe Arp2/3 :",
+    "choix": [
+      "Induit la formation de filaments linéaires",
+      "Nucléé la croissance de filaments branchés à 70°",
+      "Dépolymérise les microtubules",
+      "Séquestre les monomères d’actine",
+      "Stabilise les filaments intermédiaires"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Les microtubules :",
+    "choix": [
+      "Sont composés de 9 protofilaments",
+      "Ont une structure creuse composée de 13 protofilaments",
+      "Sont des structures planes",
+      "Sont formés de kératine",
+      "Sont très stables et non dynamiques"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Le centrosome :",
+    "choix": [
+      "Est un organite dépourvu de protéines",
+      "Contient deux centrioles et des complexes γ-TuRC",
+      "Est situé dans le noyau",
+      "Sert à polymériser les filaments intermédiaires",
+      "Est composé d’actine"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "La colchicine :",
+    "choix": [
+      "Stabilise les microtubules",
+      "Active la polymérisation de l’actine",
+      "Inhibe la polymérisation de la tubuline",
+      "Séquestre les monomères d’actine",
+      "Inhibe la myosine II"
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "Les filaments intermédiaires :",
+    "choix": [
+      "Sont polarisés",
+      "Ont une structure tubulaire creuse",
+      "Sont constitués d’actine G",
+      "Participent à la contraction musculaire",
+      "Ne consomment pas d’énergie lors de leur assemblage"
+    ],
+    "reponse": 4
+  },
+  {
+    "q": "La myosine II :",
+    "choix": [
+      "Se déplace le long des microtubules",
+      "Se déplace le long des filaments d’actine vers l’extrémité +",
+      "Se déplace vers l’extrémité –",
+      "Se lie à la tubuline β",
+      "Est une protéine du fuseau mitotique"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Les kinésines :",
+    "choix": [
+      "Se déplacent vers l’extrémité + des microtubules",
+      "Sont des moteurs moléculaires du réseau d’actine",
+      "Se déplacent vers l’extrémité – des microtubules",
+      "Se déplacent aléatoirement le long des filaments intermédiaires",
+      "Font partie du complexe Arp2/3"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "La profiline :",
+    "choix": [
+      "Séquestre les monomères d’actine pour inhiber la polymérisation",
+      "Coupe les filaments d’actine",
+      "Dépolymérise les microtubules",
+      "Favorise la polymérisation à l’extrémité + en échangeant ADP contre ATP",
+      "Se lie aux dimères de tubuline"
+    ],
+    "reponse": 3
+  },
+  {
+    "q": "La cofiline :",
+    "choix": [
+      "Se lie préférentiellement à l’actine-ATP",
+      "Stabilise les filaments d’actine",
+      "Coupe et déstabilise les anciens filaments d’actine riches en ADP",
+      "Polymérise les microtubules",
+      "Nucléé les réseaux d’actine branchés"
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "La gelsoline :",
+    "choix": [
+      "Coupe les filaments d’actine et coiffe les extrémités plus",
+      "Stabilise les microtubules",
+      "Active la polymérisation de la tubuline",
+      "Dépolymérise les filaments intermédiaires",
+      "Est un moteur moléculaire"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Les filaments d’actine sont organisés en lamellipodes :",
+    "choix": [
+      "Lors de la division cellulaire",
+      "Lors de la migration cellulaire",
+      "Lors de la mitose",
+      "Dans le noyau",
+      "Dans les mitochondries"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "La catastrophe des microtubules correspond à :",
+    "choix": [
+      "Un passage soudain de la dépolymérisation à la polymérisation",
+      "Une phase de stabilisation prolongée",
+      "L’action des protéines Tau",
+      "Une perte de la coiffe ATP",
+      "Un passage soudain de la polymérisation à la dépolymérisation"
+    ],
+    "reponse": 4
+  },
+  {
+    "q": "Les protéines MAP2 et Tau :",
+    "choix": [
+      "Nucléent les microtubules",
+      "Stabilisent les microtubules le long de leur longueur",
+      "Coupe les microtubules",
+      "Hydrolysent le GTP",
+      "Inhibent la polymérisation"
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Les kératines appartiennent à :",
+    "choix": [
+      "La famille des filaments intermédiaires",
+      "La famille des microtubules",
+      "La famille des microfilaments",
+      "La famille des actines",
+      "La famille des myosines"
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "La lamine nucléaire :",
+    "choix": [
+      "Est une actine nucléaire",
+      "Est une tubuline modifiée",
+      "Est un filament intermédiaire tapissant la face interne de l’enveloppe nucléaire",
+      "Stabilise le fuseau mitotique",
+      "Se trouve dans le cytoplasme"
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "La latrunculine :",
+    "choix": [
+      "Stabilise les microtubules",
+      "Coupe les filaments d’actine",
+      "Favorise la polymérisation de l’actine",
+      "Empêche la polymérisation de l’actine en se liant à l’actine G",
+      "Déstabilise les filaments intermédiaires"
+    ],
+    "reponse": 3
+  },
+  {
+    "q": "Les filaments intermédiaires se distinguent des microtubules et des microfilaments car :",
+    "choix": [
+      "Ils sont polarisés",
+      "Ils consomment du GTP",
+      "Ils ne consomment pas d’énergie pour s’assembler et sont non polarisés",
+      "Ils contiennent de l’actine",
+      "Ils participent au transport intracellulaire actif"
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "Il existe deux types de cellules animales isolées en laboratoire : les cellules adhérentes et les cellules en suspension. Parmi les éléments suivants, lesquels sont des cellules adhérentes ?",
+    "choix": ["Sang", "Fibroblastes 3T3",  "Moelle osseuse"],
+    "reponse": 1
+  },
+  {
+    "q": "La vitesse de sédimentation d’une particule dépend principalement de",
+    "choix": ["Son rayon", "Sa charge", "La pression constante"],
+    "reponse": 0
+  },
+  {
+    "q": "Quel est le nom de la femme afro-américaine dont les cellules cancéreuses sont à l'origine des cellules HeLa ?",
+    "choix": ["Henrietta Locks", "Henriana Lacks", "Henrietta Lacks", "Henriana Locks"],
+    "reponse": 2
+  },
+  {
+    "q": "Pourquoi faut-il passer les chloroplastes par centrifugation sur gradient de densité après centrifugation différentielle ?",
+    "choix": ["Séparer les chloroplastes cassés et intacts", "Pour garantir la pureté des organites", "Distinguer entre le noyau et le chloroplaste", "Pour libérer les organites dans la cellule"],
+    "reponse": 0
+  },
+  {
+    "q": "Le rouge de phénol est un détecteur de :",
+    "choix": ["Humidité de la cellule", "alcalinisation et acidification", "taux de CO2"],
+    "reponse": 2
+  },
+  {
+    "q": "À quoi sert une hotte ?",
+    "choix": ["S'assurer que les niveaux d'oxygène sont optimaux", "Pour éviter l'acidification de la culture", "Pour maintenir le taux d'humidité à 73 %", "Pour garantir des conditions stériles"],
+    "reponse": 3
+  },
+  {
+    "q": "D'où proviennent les cellules HeLa ?",
+    "choix": ["Le col de l’utérus", "Le cœur", "Le rein", "Le pancréas"],
+    "reponse": 0
+  },
+  {
+    "q": "Si le western blot est utilisé pour détecter les protéines, le northern blot est utilisé pour détecter :",
+    "choix": ["l’ADN", "l’ARN", "les noyaux", "les mitochondries"],
+    "reponse": 1
+  },
+  {
+    "q": "Selon la loi de Stokes, la vitesse de sédimentation d'une particule dépend principalement de :",
+    "choix": ["Sa vitesse de migration", "Son rayon", "Son poids moléculaire"],
+    "reponse": 1
+  },
+  {
+    "q": "Quel est l’intérêt d’utiliser un contrôle de charge lors d’une analyse par western blot ?",
+    "choix": [
+      "Contrôler la qualité des anticorps utilisés.",
+      "S'assurer que les variations d’intensité observées ne sont pas dues à des différences dans la quantité totale de protéines chargées.",
+      "Détecter les interactions protéine-protéine.",
+      "S’assurer que la détection des protéines d’intérêt est spécifique."
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "En considérant la limite du pouvoir de résolution théorique de l’œil humain, vous pouvez affirmer qu’il est possible d’observer sans l’aide d’un microscope (une réponse juste) :",
+    "choix": ["Un organoïde.", "Une protéine GFP.", "Une cellule HeLa.", "Une levure Saccharomyces cerevisiae.", "Une bactérie Escherichia coli."],
+    "reponse": 0
+  },
+  {
+    "q": "Qu’est-ce que la chimiluminescence (une réponse juste) ?",
+    "choix": [
+      "Une réaction chimique induisant une émission de lumière.",
+      "Une émission de lumière provoquée par l’excitation des électrons d’une molécule.",
+      "Une émission de lumière induite par l’absorption de photons.",
+      "Une production d’un produit coloré à la suite d’une réaction d’oxydoréduction.",
+      "Une émission de lumière par un anticorps secondaire qui interagit avec un anticorps primaire."
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Selon la loi de Stokes, la vitesse de sédimentation d’une particule augmentera (plusieurs réponses justes) :",
+    "choix": [
+      "Plus la vitesse de centrifugation sera importante.",
+      "Plus la densité de la particule sera faible.",
+      "Moins la température du milieu sera élevée.",
+      "Lors de son homogénéisation."
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Vous avez isolé une fraction subcellulaire contenant des lysosomes par centrifugation sur gradient de saccharose. Comment évalueriez-vous sa pureté (une réponse juste) ?",
+    "choix": [
+      "En examinant cette fraction par microscopie électronique.",
+      "En mesurant l’absorbance de cette fraction par spectrophotométrie.",
+      "En réalisant un western-blot à l’aide d’un anticorps dirigé contre une protéine exprimée sur les lysosomes.",
+      "En analysant cette fraction par électrophorèse puis par microscopie optique."
+    ],
+    "reponse": 0
+  },
+  {
+    "q": " En hybridant la fraction avec une sonde complémentaire des lysosomes.Quelle technique ne permet pas de détecter des acides nucléiques (une réponse juste) ?",
+    "choix": ["Le southern-blot.", "Le northern-blot.", "Le western-blot.", "La cytométrie en flux.", "Le FISH (hybridation in situ en fluorescence)."],
+    "reponse": 2
+  },
+  {
+    "q": "Parmi les propositions ci-dessous, laquelle correspond à une étape du northern-blot (une réponse juste) ?",
+    "choix": [
+      "Electrophorèse pour séparer des fragments d’ADN totaux.",
+      "Transfert de l’ADN sur une membrane.",
+      "Hybridation avec une sonde marquée pour détecter un ARNm.",
+      "Incubation avec un anticorps primaire.",
+      "Révélation de la protéine par fluorescence."
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "Quel est l’avantage de l’utilisation de la GFP par rapport aux anticorps marqués par fluorescence pour étudier le mouvement d’une protéine à l’intérieur des cellules (une réponse juste) ?",
+    "choix": [
+      "Les protéines fusionnées à la GFP peuvent être exprimées dans des cellules vivantes.",
+      "La GFP peut être observée par microscopie confocale.",
+      "Les protéines fusionnées à la GFP peuvent être identifiées également par western-blot.",
+      "La GFP peut émettre de la fluorescence après fixation des cellules.",
+      "La GFP permet de ralentir le déplacement des protéines intracellulaires, ce qui facilite l’observation microscopique."
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Après avoir réalisé un protocole de purification de chloroplastes, un expérimentateur observe l’extrait obtenu avec un microscope photonique à contraste de phase. A partir de cette observation, on peut affirmer que la fraction purifiée contient (une réponse juste) :",
+    "choix": [
+      "Environ 62% de chloroplastes intacts.",
+      "Un rendement égal à 77%.",
+      "38% de chloroplastes intacts.",
+      "Une quantité théorique de 13 mg de chlorophylle.",
+      "8 chloroplastes cassés."
+    ],
+    "reponse": 0,
+    "image": "assets/image/19.png"
+  },
+  {
+    "q": "Pour effectuer une culture cellulaire animale, il est généralement recommandé (une réponse fausse) :",
+    "choix": [
+      "De maintenir une température correspondant à celle de l’organisme d’origine.",
+      "Que les cellules aient de l’oxygène.",
+      "De respecter un taux d’humidité correspondant à celui présent dans un corps humain.",
+      "De maintenir un taux de 5% de CO2 dans l’incubateur.",
+      "De travailler en conditions stériles."
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "Les chloroplastes sont des structures d’environ 2 à 10 μm de diamètre. A l’issue d’une purification, quelle méthode rapide utiliseriez-vous pour estimer si les fractions obtenues après avoir effectué un gradient sont intactes et pures (une réponse juste) ?",
+    "choix": ["La microscopie photonique.", "La microscopie électronique.", "Le FRAP.", "Un SDS-PAGE.", "Le CLEM."],
+    "reponse": 0
+  },
+  {
+    "q": "La partie optique d’un microscope contient (une réponse juste) :",
+    "choix": [
+      "Un diaphragme qui fonctionne comme une loupe.",
+      "Des objectifs qui permettent d’éclairer l’objet de façon uniforme.",
+      "Une vis de mise au point qui permet d’ajuster les oculaires.",
+      "Un oculaire qui permet d’obtenir une image agrandie et renversée.",
+      "Deux lentilles convergentes présentes respectivement dans l’objectif et l’oculaire."
+    ],
+    "reponse": 4
+  },
+  {
+    "q": "Un microscope à épifluorescence (ou microscope à fluorescence) contient (une réponse fausse) :",
+    "choix": [
+      "Un filtre sélectionnant la longueur d’onde d’excitation d’un fluorochrome.",
+      "Un filtre sélectionnant la longueur d’onde d’émission d’un fluorochrome.",
+      "Un miroir dichroïque.",
+      "Un pinhole.",
+      "Un tube optique."
+    ],
+    "reponse": 3
+  },
+  {
+    "q": "La levure Saccharomyces cerevisiae est (une reponse juste) :",
+    "choix": [
+      "Un modèle procaryote.",
+      "Un organisme pluricellulaire.",
+      "Un organisme possédant un noyau.",
+      "Complexe à manipuler car son génome n’est pas entièrement caractérisé."
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "Les organoïdes (une réponse juste) :",
+    "choix": [
+      "Peuvent provenir de lignées cellulaires comme les cellules HeLa.",
+      "Sont plus petits en taille que les sphéroïdes.",
+      "Se forment en moins de 10 jours.",
+      "Peuvent modéliser des maladies.",
+      "Contiennent un seul type de cellules."
+    ],
+    "reponse": 3
+  },
+  {
+    "q": "Quelle est la principale différence entre un sphéroïde et un organoïde ?",
+    "choix": [
+      "Les sphéroïdes sont cultivés en 3D, pas les organoïdes.",
+      "L'organoïde est un ensemble de types cellulaires spécifiques d'un organe qui se développe de manière similaire à ce qui se passe in vivo.",
+      "Les sphéroïdes proviennent de cellules souches, pas les organoïdes.",
+      "Seuls les sphéroïdes nécessitent d'être ancrés (matrigel)."
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Les cellules primaires non cancéreuses (plusieurs réponses justes) :",
+    "choix": [
+      "Sont forcément des cellules adhérentes.",
+      "Sont immortelles.",
+      "Ne peuvent être que d’origine animale.",
+      "Peuvent être obtenues par dissociation mécanique."
+    ],
+    "reponse": 3
+  },
+  {
+    "q": "Les anticorps (une réponse juste) :",
+    "choix": [
+      "Sont notamment composés de deux chaines lourdes identiques.",
+      "Sont sécrétés par des antigènes.",
+      "Ne disposent pas de structure quaternaire.",
+      "Se lient à un antigène grâce à des liaisons covalentes.",
+      "Interagissent avec un antigène par l’intermédiaire de leur partie constante."
+    ],
+    "reponse": 0
+  },
+  {
+    "q": " Semblable à un microscope optique, mais la lumière émise passe par un ensemble de filtres avant l’échantillon pour sélectionner les longueurs d’onde qui excitent le colorant, et par un autre ensemble de filtres avant d’atteindre l’œil pour sélectionner uniquement les longueurs d’onde émises lorsque le colorant est fluorescent (une réponse juste).",
+    "choix": [
+      "Un microscope à fluorescence.",
+      "Le « Fluorescence Resonance Energy Transfer » (FRET).",
+      "Un microscope électronique à transmission.",
+      "Un microscope à contraste de phase.",
+      "Un cytomètre en flux."
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "Afin d’effectuer une purification de chloroplastes à partir de 15 g de feuilles d’épinard, vous effectuez une centrifugation différentielle et reprenez le culot obtenu dans un volume total de tampon égal à 1,8 mL. En mesurant la concentration de chlorophylle dans cet échantillon par spectrophotométrie, vous obtenez 5,7 mg/mL. Quel est le rendement de cette étape de purification ?",
+    "choix": [
+      "68,4 %.",
+      "3,17 mg.",
+      "4,74 M.",
+      "10,26 mg.",
+      "0,684 %."
+    ],
+    "reponse": 0
+  }
+]

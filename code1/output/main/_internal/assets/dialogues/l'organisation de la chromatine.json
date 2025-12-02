@@ -1,0 +1,322 @@
+[
+  {
+    "q": "En interphase (une réponse fausse) :",
+    "choix": [
+      "Les chromosomes sont présents sous forme de « territoires chromosomiques ».",
+      "Les régions euchromatiques et hétérochromatine présentent une distribution nucléaire différente",
+      "Les chromosomes contiennent des histones.",
+      "L’euchromatine est plus compacte que l'hétérochromatine.",
+      "Les chromosomes peuvent être détectés grâce à la technique d’hybridation in situ."
+    ],
+    "reponse": 3
+  },
+  {
+    "q": "Lequel de ces acteurs n’est pas directement impliqué dans la réplication de l’ADN (une réponse juste)",
+    "choix": [
+      "La primase.",
+      "La recombinase.",
+      "La topoisomérase II.",
+      "L’hélicase.",
+      "La ligase."
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Les facteurs généraux de transcription (une réponse fausse)",
+    "choix": [
+      "Sont des facteurs protéiques",
+      "Leur présence au promoteur sous la forme d’un complexe de préinitiation nécessite l’absence de nucléosome au niveau de la boîte TATA.",
+      "Permettent un positionnement correct de l’ARN polymérase.",
+      "Jouent un rôle important dans la phase d’initiation de la transcription",
+      "Incluent un facteur appelé TFIIH qui possède une activité topoisomérase"
+    ],
+    "reponse": 4
+  },
+  {
+    "q": "Les protéines histones H2A, H2B, H3 et H4 :",
+    "choix": [
+      "Sont traduites dans le noyau.",
+      "Peuvent être modifiées par des modifications post-traductionnelles.",
+      "Ont une taille inférieure à la majorité des autres protéines cellulaires.",
+      "Sont présentes au niveau de l’octamère d’histone."
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "A propos de la chromatine (une réponse juste) :",
+    "choix": [
+      "Au cours du processus de différentiation cellulaire, un gène réprimé transcriptionnellement de manière définitive est présent sous forme d’hétérochromatine facultative.",
+      "L’euchromatine est retrouvée principalement au niveau des régions télomériques centromériques et péricentriques.",
+      "La chromatine est présente dans toutes les cellules eucaryotes.",
+      "La chromatine très compacte est localisée au centre du noyau.",
+      "L’hétérochromatine forme une chromatine compacte."
+    ],
+    "reponse": 4
+  },
+  {
+    "q": "Dans les cellules eucaryotes humaines, la phase S dure environ 7 heures. (une réponse justes)",
+    "choix": [
+      "Au cours de la phase S, chaque molécule d’ADN est copiée à partir d’une origine de réplication unique.",
+      "A l’issue de la phase S, les deux molécules d’ADN maintenant contenues dans un chromosome sont différentes car l’une contient une série de petits fragments ARN-ADN appelés fragments d’Okazaki (100-200 bp), et l’autre non.",
+      "A l’issue de la phase S, la cellule aura dupliqué la quantité d’ADN.",
+      "A l’issue de la phase S, la cellule aura dupliqué le nombre de chromosomes."
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "Quelle sera la séquence du transcrit généré (la flèche indique le sens de transcription) (une réponse juste) ?",
+    "choix": [
+      "Aucune proposition correcte.",
+      "5’-UACGUAUACUAGCAUAUGC-3’.",
+      "5’-GCAUAUGCUAGUAUACGUA-3’.",
+      "5’-CGUAUACGAUCAUAUGCAU-3’.",
+      "5’-AUGCAUAUGAUCGUAUACG-3’."
+    ],
+    "reponse": 4,
+    "image": "assets/image/8.jpg"
+  },
+  {
+    "q": "Concernant le mécanisme de la réplication de l'ADN chez les eucaryotes, choisissez la ou les affirmations correctes (une réponse fausse).",
+    "choix": [
+      "La synthèse du brin précoce (ou continu) s'effectue selon la même vitesse que celle du brin tardif (ou discontinu).",
+      "La mise en évidence de la bidirectionnalité nécessite l'utilisation de nucléotides triphosphates (NTP) marqués de façon synchronisée.",
+      "La réplication progresse de manière unidirectionnelle à partir de multiples origines chez les eucaryotes.",
+      "La réplication de l'ADN s'effectue selon un modèle semi-conservatif.",
+      "Le brin tardif est synthétisé sous forme de multiples fragments d'Okazaki"
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "Concernant l'initiation et l'élongation de la réplication de l'ADN. (Identifiez la réponse fausse)",
+    "choix": [
+      "La reconnaissance du signal « ORI » est assurée par l'hélicase et le complexe ORC.",
+      "La synthèse de l'amorce ARN est assurée par l'ADN Polymérase α.",
+      "L'extrémité 3′ OH libre de l'amorce ARN est absolument indispensable à l'action de l'ADN Polymérase.",
+      "La primase synthétise de courtes séquences d'ARN pour permettre à la polymérase de commencer l'élongation."
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "À propos de la réplication des télomères, (sélectionnez l'affirmations fausse - une réponse fausse).",
+    "choix": [
+      "La télomérase est une enzyme dotée d'une activité reverse-transcriptase grâce à son composant ARN interne",
+      "La télomérase est active dans toutes les cellules somatiques d'un organisme adulte.",
+      "C'est l'extrémité 3' du brin précoce qui est allongée par la télomérase",
+      "La réplication des télomères est un mécanisme spécifique qui empêche le raccourcissement des chromosomes à chaque division."
+    ],
+    "reponse": 1
+  },
+
+  {
+    "q": "La cinétique de la réplication est étroitement liée à l'état de la chromatine. (Choisissez la reponse juste).",
+    "choix": [
+      "L'hétérochromatine constitutive et facultative est répliquée précocement.",
+      "La réplication est un phénomène synchrone pour toutes les régions du génome pendant la phase S.",
+      "La réplication de la chromatine To (gènes exprimés) est plus précoce que celle de la chromatine Tr (gènes inactifs).",
+      "La visualisation de la réplication in situ peut être réalisée par incubation brève des cellules avec des UTP marqués."],
+    "reponse": 2
+  },
+  {
+    "q": "Parmi les mécanismes de finalisation de la réplication et de gestion des contraintes, quelle affirmation est inexacte?",
+    "choix": [
+      "La Ligase est indispensable pour créer une liaison phosphodiester entre le fragment d'ADN néosynthétisé (après l'amorce) et le fragment d'ADN adjacent.",
+      "Le déroulement de l'hélice d'ADN par l'hélicase génère une contrainte torsionnelle stérique en amont des fourches de réplication.",
+      "Le retrait de l'amorce ARN et son remplacement par de l'ADN sont réalisés par l'activité exonucléase de l'ADN pol I (δ/ϵ).",
+      "La réplication est un processus fondamental qui précède toute division cellulaire.",
+      "La Topoisomérase est uniquement impliquée dans la séparation des deux molécules d’ADN filles à la fin de la réplication."
+    ],
+    "reponse": 4
+  },
+  {
+    "q": "La primase initie la synthèse…( une bonne réponse.)",
+    "choix": [
+      "d'ATP.",
+      "de nucléotides.",
+      "d'un fragment d'ARN.",
+      "uniquement en début de la phase S.",
+      "d'un fragment d'ADN."
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "Si l’on souhaite préciser le pourcentage de cellules en phase S dans une population, il est nécessaire de cultiver les cellules en présence d’un désoxynucléotide marqué ou d’un marqueur de la phase S. Parmi les propositions ci-après, quelle(s) protéine(s) est(sont) exprimée(s) uniquement en phase S ?(une bonne réponse.)",
+    "choix": [
+      "L’ARN polymérase.",
+      "Une protéine phosphorylée.",
+      "Le facteur de transcription p53.",
+      "L'histone H1.",
+      "La protéine PCNA (proliferating cell nuclear antigen)."
+    ],
+    "reponse": 4
+  },
+  {
+    "q": "Lorsque des cellules en culture sont incubées pendant 10 minutes avec des désoxynucléotides fluorescents (une réponse fausse) :",
+    "choix": [
+      "Les cellules en phase G1 incorporeront la majorité des désoxynucléotides fluorescents.",
+      "Les cellules les plus intensément marquées seront celles en milieu de phase S.",
+      "Le marquage pourra permettre d’identifier les cellules en phase de synthèse de l’ADN.",
+      "Certaines cellules seront marquées plus intensément que d'autres."
+    ],
+    "reponse": 0
+  },
+  {
+    "q": "A propos de cette image de microscopie électronique montrant un gène ribosomal en cours de transcription active (choisissez la réponse juste) :",
+    "choix": [
+      "Le sens de la transcription est de droite à gauche.",
+      "La région promotrice se trouve dans la zone indiquée par la flèche ”B”.",
+      "Plusieurs molécules d’ARNr sont synthétisées à partir d’un seul gène ribosomal.",
+      "La flèche ”A” désigne l’extrémité 5’ d’une molécule d’ARN en cours d’élongation.",
+      "La flèche ”A” indique une molécule d’ARNpolymérase engagée dans la transcription"
+    ],
+    "reponse": 2,
+    "image": "assets/image/17.jpg"
+  },
+  {
+    "q": "Sur les phases du cycle cellulaire (cochez la réponse FAUSSE)",
+    "choix": [
+      "La phase S correspond à la synthèse de l’ADN",
+      "La phase G2 précède la mitose",
+      "La phase G1 permet la vérification de l’intégrité de l’ADN",
+      "La cytocinèse fait partie de la mitose"
+    ],
+    "reponse": 3
+  },
+  {
+    "q": "Concernant les CDK (Cyclin-Dependent Kinases) (cochez la réponse fausse)",
+    "choix": [
+      "Elles nécessitent une cycline pour être actives",
+      "Elles peuvent phosphoryler des protéines",
+      "Elles sont présentes seulement en phase S",
+      "Elles contrôlent la progression du cycle cellulaire",
+      "Elles sont inhibées par certains complexes"
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "pendant la mitose (cochez la réponse fausse)",
+    "choix": [
+      "La prophase marque la condensation des chromosomes",
+      "L’anaphase correspond à la séparation des chromatides sœurs",
+      "La cytocinèse peut se produire après la télophase",
+      "L’enveloppe nucléaire disparaît en métaphase"
+    ],
+    "reponse": 3
+  },
+  {
+    "q": "Quelles sont les caractéristiques de la Méiose (cochez la réponse fausse) :",
+    "choix": [
+      "La première division est réductionnelle",
+      "La deuxième division est équationnelle",
+      "La méiose permet la formation de 4 cellules haploïdes",
+      "Il y a recombinaison génétique en méiose I",
+      "Les chromatides sœurs se séparent en méiose I"
+    ],
+    "reponse": 4
+  },
+  {
+    "q": "A propos du Crossing-over (cochez la réponse fausse):",
+    "choix": [
+      "Il se produit en prophase I",
+      "Il implique des chromatides non-sœurs",
+      "Il assure la variation génétique",
+      "Il se produit en méiose II",
+      "Il implique les chiasmas"
+    ],
+    "reponse": 3
+  },
+  {
+    "q": "La Transcription (cochez la réponse fausse) :",
+    "choix": [
+      "Elle est réalisée par l’ARN polymérase",
+      "Elle se déroule dans le cytoplasme des eucaryotes",
+      "La transcription se fait dans le sens 5’ → 3’",
+      "Le promoteur est une séquence nécessaire"
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "ARNm eucaryote (cochez la réponse FAUSSE)",
+    "choix": [
+      "Il contient une coiffe en 5’",
+      "Il contient une queue poly-A",
+      "Il contient uniquement des introns",
+      "Il contient des exons",
+      "Il subit un épissage"
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "A propos des Facteurs de transcription (cochez la réponse fausse):",
+    "choix": [
+      "Ils se fixent sur le promoteur",
+      "Ils régulent l’expression génique",
+      "Ils peuvent recruter des coactivateurs",
+      "Ils ne peuvent pas modifier la chromatine",
+      "Ils agissent parfois sur des enhancers"
+    ],
+    "reponse": 3
+  },
+  {
+    "q": "A propos de la transcription des ARNm (cochez la réponse fausse) :",
+    "choix": [
+      "Initiation et élongation de la transcription s’accompagnent de phosphorylation de sérines présentes au sein de motifs répétés heptapeptidiques présents au niveau de la queue C terminale de l’ARN polymérase.",
+      "Le complexe de préinitiation permet de po-sitionner l’ARN polymérase au site de démarrage de la transcription.",
+      "Les facteurs de transcription spécifiques contrôlent dans quelle cellule, à quel moment et à quel niveau la transcription d’un gène doit se produire.",
+      "Les facteurs généraux de transcription forment un complexe appelé complexe d’élongation de la transcription.",
+      "L’étape d’initiation de la transcriptionpermet la synthèse d’un ARN contenant une cinquantaine de nucléotides qui formeront l’extrémité 5’ de l’ARN."
+    ],
+    "reponse": 3
+  },
+  {
+    "q": "Les molécules suivantes contiennent des ARNs non-codants (cochez la réponse juste) :",
+    "choix": [
+      "Les ribosomes.",
+      "Le spliceosome.",
+      "La polymérase.",
+      "Les facteurs d’épissage spécifiques.",
+      "La télomérase"
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "Chez les eucaryotes (cochez la réponse juste) :",
+    "choix": [
+      "Un spermatozoide contenant 2 chromosomes X a subi un problème de division méiotique qui peut s’être produit au cours de la méiose réductionnelle ou réductionnelle.",
+      "Au cours de la mitose, la double hélice d’ADN formée de deux brins d’ADN complémentaire se scinde en deux.",
+      "Chaque chromosome en G1 est formé d’une chromatide.",
+      "Au cours de la mitose, la quantité de chromosomes par cellule varie entre les phases G1, S et G2."],
+    "reponse": 2
+  },
+  {
+    "q": "Le noyau des cellules eucaryotes humaines (cochez la réponse fausse) :",
+    "choix": [
+      "Disparaît en mitose.",
+      "Contient des chromosomes interphasiques distribués selon un schéma appelé ”plat de spaghetti”.",
+      "Possède un diamètre de l’ordre de l’ordre de 5 à 10 µm.",
+      "Est tapissé de lamines.",
+      "A le feuillet externe de son enveloppe nu-cléaire qui est relié au réticulum endoplasmique."
+    ],
+    "reponse": 1
+  },
+  {
+    "q": "Parmi l’ensemble des éléments indiqués ci-dessous, un seul n’est pas impliqué dans le processus de liaison des polysomes libres à la membrane du réticulum endoplasmique granuleux. Lequel (cochez la réponse juste) ?",
+    "choix": [
+      "Le peptide signal situé à l’extrémité N-terminale des protéines en cours de traduction.",
+      "Les récepteurs de la particule SRP.",
+      "La peptidase du signal.",
+      "Les translocons.",
+      "La particule SRP."
+    ],
+    "reponse": 2
+  },
+  {
+    "q": "A propos des protéines histones (cochez la réponse fausse) :",
+    "choix": [
+      "Elles sont organisées en octamères qui forment la structure cœur du nucléosome.",
+      "Elles peuvent être détectées facilement, sur la base de leur charge, par simple coloration au Bleu de Coomassie d’un gel SDS-PAGE réalisée en utilisant un extrait total de protéines nucléaires.",
+      "Elles possèdent une séquence en acides aminés conservée chez tous les eucaryotes.",
+      "Elles possèdent une taille moyenne inférieure à la plupart des protéines."
+    ],
+    "reponse": 1
+  }
+]
